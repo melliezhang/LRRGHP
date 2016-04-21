@@ -1,0 +1,10 @@
+GHP_Data\3.tif: PSNR = 27.20  SSIM = 0.714354 FSIM = 0.941318
+
+
+PSNR of the noisy image = 20.176505 
+Preprocessing, Iter 1 : PSNR = 26.031531, SSIM = 0.658736, nsig = 25.00
+Preprocessing, Iter 2 : PSNR = 26.541899, SSIM = 0.687564, nsig = 4.22
+Preprocessing, Iter 3 : PSNR = 26.869593, SSIM = 0.706708, nsig = 3.96
+Preprocessing, Iter 4 : PSNR = 27.061523, SSIM = 0.718021, nsig = 3.67
+Preprocessing, Iter 5 : PSNR = 27.164747, SSIM = 0.719171, nsig = 3.27
+Preprocessing, Iter 6 : PSNR = 27.178709, SSIM = 0.714160, nsig = 2.83

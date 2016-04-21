@@ -1,0 +1,1 @@
+GHP_Data\3.tif: PSNR = 21.86  SSIM = 0.502741 FSIM = 0.829125

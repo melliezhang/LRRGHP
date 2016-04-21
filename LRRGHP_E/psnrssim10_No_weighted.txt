@@ -1,0 +1,503 @@
+GHP_Data\3.tif: PSNR = 21.86  SSIM = 0.502741 FSIM = 0.829125
+1.tif:
+PSNR of the noisy image = 34.157162 
+Preprocessing, Iter 1 : PSNR = 37.151378, SSIM = 0.936703, nsig = 5.00
+Preprocessing, Iter 2 : PSNR = 37.756117, SSIM = 0.962516, nsig = 5.00
+Total elapsed time = 5.396889 min
+
+10.tif:
+PSNR of the noisy image = 34.154928 
+Preprocessing, Iter 1 : PSNR = 36.697041, SSIM = 0.932811, nsig = 5.00
+Preprocessing, Iter 2 : PSNR = 37.511755, SSIM = 0.948317, nsig = 5.00
+Total elapsed time = 3.442611 min
+
+2.tif:
+PSNR of the noisy image = 34.155977 
+Preprocessing, Iter 1 : PSNR = 35.652910, SSIM = 0.947326, nsig = 5.00
+Total elapsed time = 4.135374 min
+
+3.tif:
+PSNR of the noisy image = 34.155905 
+Preprocessing, Iter 1 : PSNR = 35.362577, SSIM = 0.941849, nsig = 5.00
+Total elapsed time = 1.582208 min
+
+4.tif:
+PSNR of the noisy image = 34.155905 
+Preprocessing, Iter 1 : PSNR = 35.017599, SSIM = 0.956836, nsig = 5.00
+Total elapsed time = 1.582963 min
+
+5.tif:
+PSNR of the noisy image = 34.155905 
+Preprocessing, Iter 1 : PSNR = 36.446098, SSIM = 0.932202, nsig = 5.00
+Preprocessing, Iter 2 : PSNR = 36.937985, SSIM = 0.941838, nsig = 5.00
+Total elapsed time = 2.441322 min
+
+6.tif:
+PSNR of the noisy image = 34.155416 
+Preprocessing, Iter 1 : PSNR = 36.215735, SSIM = 0.944866, nsig = 5.00
+Total elapsed time = 4.094566 min
+
+7.tif:
+PSNR of the noisy image = 34.157252 
+Preprocessing, Iter 1 : PSNR = 36.703135, SSIM = 0.934792, nsig = 5.00
+Preprocessing, Iter 2 : PSNR = 37.161243, SSIM = 0.957740, nsig = 5.00
+Total elapsed time = 5.917192 min
+
+8.tif:
+PSNR of the noisy image = 34.156027 
+Preprocessing, Iter 1 : PSNR = 37.658952, SSIM = 0.931456, nsig = 5.00
+Preprocessing, Iter 2 : PSNR = 38.422070, SSIM = 0.967344, nsig = 5.00
+Total elapsed time = 6.119448 min
+
+9.tif:
+PSNR of the noisy image = 34.154060 
+Preprocessing, Iter 1 : PSNR = 35.615982, SSIM = 0.946425, nsig = 5.00
+Total elapsed time = 2.144630 min
+
+Lena512.tif:
+PSNR of the noisy image = 34.155905 
+Preprocessing, Iter 1 : PSNR = 37.404773, SSIM = 0.923983, nsig = 5.00
+Preprocessing, Iter 2 : PSNR = 38.556377, SSIM = 0.945960, nsig = 5.00
+Total elapsed time = 2.412167 min
+
+1.tif:
+PSNR of the noisy image = 28.136562 
+Preprocessing, Iter 1 : PSNR = 33.571130, SSIM = 0.900939, nsig = 10.00
+Total elapsed time = 3.514797 min
+
+10.tif:
+PSNR of the noisy image = 28.134328 
+Preprocessing, Iter 1 : PSNR = 33.602898, SSIM = 0.880719, nsig = 10.00
+Total elapsed time = 2.225880 min
+
+2.tif:
+PSNR of the noisy image = 28.135377 
+Preprocessing, Iter 1 : PSNR = 31.249312, SSIM = 0.890516, nsig = 10.00
+Total elapsed time = 4.109905 min
+
+3.tif:
+PSNR of the noisy image = 28.135306 
+Preprocessing, Iter 1 : PSNR = 31.265357, SSIM = 0.863941, nsig = 10.00
+Total elapsed time = 1.566448 min
+
+4.tif:
+PSNR of the noisy image = 28.135306 
+Preprocessing, Iter 1 : PSNR = 30.241470, SSIM = 0.895114, nsig = 10.00
+Total elapsed time = 1.577496 min
+
+5.tif:
+PSNR of the noisy image = 28.135306 
+Preprocessing, Iter 1 : PSNR = 33.297056, SSIM = 0.876302, nsig = 10.00
+Total elapsed time = 1.561113 min
+
+6.tif:
+PSNR of the noisy image = 28.134816 
+Preprocessing, Iter 1 : PSNR = 31.749759, SSIM = 0.905373, nsig = 10.00
+Total elapsed time = 3.901797 min
+
+7.tif:
+PSNR of the noisy image = 28.136652 
+Preprocessing, Iter 1 : PSNR = 33.018396, SSIM = 0.886143, nsig = 10.00
+Total elapsed time = 3.757628 min
+
+8.tif:
+PSNR of the noisy image = 28.135427 
+Preprocessing, Iter 1 : PSNR = 34.169402, SSIM = 0.902652, nsig = 10.00
+Total elapsed time = 3.854953 min
+
+9.tif:
+PSNR of the noisy image = 28.133460 
+Preprocessing, Iter 1 : PSNR = 30.934792, SSIM = 0.890951, nsig = 10.00
+Total elapsed time = 2.057991 min
+
+Lena512.tif:
+PSNR of the noisy image = 28.135306 
+Preprocessing, Iter 1 : PSNR = 34.986255, SSIM = 0.892466, nsig = 10.00
+Total elapsed time = 1.597790 min
+
+1.tif:
+PSNR of the noisy image = 24.614737 
+Preprocessing, Iter 1 : PSNR = 31.056655, SSIM = 0.874558, nsig = 15.00
+Total elapsed time = 3.569286 min
+
+10.tif:
+PSNR of the noisy image = 24.612502 
+Preprocessing, Iter 1 : PSNR = 31.660985, SSIM = 0.834384, nsig = 15.00
+Total elapsed time = 2.245856 min
+
+2.tif:
+PSNR of the noisy image = 24.613552 
+Preprocessing, Iter 1 : PSNR = 28.379829, SSIM = 0.819576, nsig = 15.00
+Total elapsed time = 4.178028 min
+
+3.tif:
+PSNR of the noisy image = 24.613480 
+Preprocessing, Iter 1 : PSNR = 28.714134, SSIM = 0.784074, nsig = 15.00
+Total elapsed time = 1.610696 min
+
+4.tif:
+PSNR of the noisy image = 24.613480 
+Preprocessing, Iter 1 : PSNR = 27.133728, SSIM = 0.814739, nsig = 15.00
+Total elapsed time = 1.636137 min
+
+5.tif:
+PSNR of the noisy image = 24.613480 
+Preprocessing, Iter 1 : PSNR = 31.387753, SSIM = 0.828661, nsig = 15.00
+Total elapsed time = 1.629562 min
+
+6.tif:
+PSNR of the noisy image = 24.612991 
+Preprocessing, Iter 1 : PSNR = 28.678106, SSIM = 0.874982, nsig = 15.00
+Total elapsed time = 3.923303 min
+
+7.tif:
+PSNR of the noisy image = 24.614827 
+Preprocessing, Iter 1 : PSNR = 30.605600, SSIM = 0.839875, nsig = 15.00
+Total elapsed time = 3.783939 min
+
+8.tif:
+PSNR of the noisy image = 24.613602 
+Preprocessing, Iter 1 : PSNR = 31.754325, SSIM = 0.886156, nsig = 15.00
+Total elapsed time = 3.810530 min
+
+9.tif:
+PSNR of the noisy image = 24.611635 
+Preprocessing, Iter 1 : PSNR = 27.748500, SSIM = 0.825611, nsig = 15.00
+Total elapsed time = 1.979124 min
+
+Lena512.tif:
+PSNR of the noisy image = 24.613480 
+Preprocessing, Iter 1 : PSNR = 33.505828, SSIM = 0.882622, nsig = 15.00
+Total elapsed time = 1.542180 min
+
+1.tif:
+PSNR of the noisy image = 22.115962 
+Preprocessing, Iter 1 : PSNR = 29.015627, SSIM = 0.829078, nsig = 20.00
+Total elapsed time = 4.610878 min
+
+10.tif:
+PSNR of the noisy image = 22.113728 
+Preprocessing, Iter 1 : PSNR = 30.059276, SSIM = 0.781202, nsig = 20.00
+Total elapsed time = 2.925890 min
+
+2.tif:
+PSNR of the noisy image = 22.114777 
+Preprocessing, Iter 1 : PSNR = 26.357940, SSIM = 0.730099, nsig = 20.00
+Total elapsed time = 5.362412 min
+
+3.tif:
+PSNR of the noisy image = 22.114706 
+Preprocessing, Iter 1 : PSNR = 26.720484, SSIM = 0.713597, nsig = 20.00
+Total elapsed time = 2.052375 min
+
+4.tif:
+PSNR of the noisy image = 22.114706 
+Preprocessing, Iter 1 : PSNR = 24.880847, SSIM = 0.713901, nsig = 20.00
+Total elapsed time = 2.059938 min
+
+5.tif:
+PSNR of the noisy image = 22.114706 
+Preprocessing, Iter 1 : PSNR = 29.736227, SSIM = 0.775431, nsig = 20.00
+Total elapsed time = 2.055747 min
+
+6.tif:
+PSNR of the noisy image = 22.114216 
+Preprocessing, Iter 1 : PSNR = 26.299255, SSIM = 0.806246, nsig = 20.00
+Total elapsed time = 5.106765 min
+
+7.tif:
+PSNR of the noisy image = 22.116052 
+Preprocessing, Iter 1 : PSNR = 28.775306, SSIM = 0.776805, nsig = 20.00
+Total elapsed time = 4.889739 min
+
+8.tif:
+PSNR of the noisy image = 22.114827 
+Preprocessing, Iter 1 : PSNR = 29.788236, SSIM = 0.846567, nsig = 20.00
+Total elapsed time = 5.057975 min
+
+9.tif:
+PSNR of the noisy image = 22.112860 
+Preprocessing, Iter 1 : PSNR = 25.441083, SSIM = 0.739820, nsig = 20.00
+Total elapsed time = 2.612912 min
+
+Lena512.tif:
+PSNR of the noisy image = 22.114706 
+Preprocessing, Iter 1 : PSNR = 31.803515, SSIM = 0.856549, nsig = 20.00
+Total elapsed time = 2.044067 min
+
+1.tif:
+PSNR of the noisy image = 20.177762 
+Preprocessing, Iter 1 : PSNR = 27.596688, SSIM = 0.783770, nsig = 25.00
+Total elapsed time = 4.679301 min
+
+10.tif:
+PSNR of the noisy image = 20.175527 
+Preprocessing, Iter 1 : PSNR = 29.057283, SSIM = 0.745951, nsig = 25.00
+Total elapsed time = 2.974960 min
+
+2.tif:
+PSNR of the noisy image = 20.176577 
+Preprocessing, Iter 1 : PSNR = 25.120624, SSIM = 0.660155, nsig = 25.00
+Total elapsed time = 5.342932 min
+
+3.tif:
+PSNR of the noisy image = 20.176505 
+Preprocessing, Iter 1 : PSNR = 25.299101, SSIM = 0.667538, nsig = 25.00
+Total elapsed time = 2.046159 min
+
+4.tif:
+PSNR of the noisy image = 20.176505 
+Preprocessing, Iter 1 : PSNR = 23.277869, SSIM = 0.617563, nsig = 25.00
+Total elapsed time = 2.048046 min
+
+5.tif:
+PSNR of the noisy image = 20.176505 
+Preprocessing, Iter 1 : PSNR = 28.669020, SSIM = 0.738739, nsig = 25.00
+Total elapsed time = 2.055728 min
+
+6.tif:
+PSNR of the noisy image = 20.176016 
+Preprocessing, Iter 1 : PSNR = 24.642730, SSIM = 0.727819, nsig = 25.00
+Total elapsed time = 5.080390 min
+
+7.tif:
+PSNR of the noisy image = 20.177852 
+Preprocessing, Iter 1 : PSNR = 27.652415, SSIM = 0.728068, nsig = 25.00
+Total elapsed time = 4.871652 min
+
+8.tif:
+PSNR of the noisy image = 20.176627 
+Preprocessing, Iter 1 : PSNR = 28.474444, SSIM = 0.803892, nsig = 25.00
+Total elapsed time = 5.045427 min
+
+9.tif:
+PSNR of the noisy image = 20.174660 
+Preprocessing, Iter 1 : PSNR = 23.874825, SSIM = 0.663658, nsig = 25.00
+Total elapsed time = 2.613849 min
+
+Lena512.tif:
+PSNR of the noisy image = 20.176505 
+Preprocessing, Iter 1 : PSNR = 30.484740, SSIM = 0.827830, nsig = 25.00
+Total elapsed time = 2.052668 min
+
+1.tif:
+PSNR of the noisy image = 18.594137 
+Preprocessing, Iter 1 : PSNR = 26.729943, SSIM = 0.749686, nsig = 30.00
+Total elapsed time = 4.629969 min
+
+10.tif:
+PSNR of the noisy image = 18.591903 
+Preprocessing, Iter 1 : PSNR = 28.441815, SSIM = 0.722424, nsig = 30.00
+Total elapsed time = 2.947643 min
+
+2.tif:
+PSNR of the noisy image = 18.592952 
+Preprocessing, Iter 1 : PSNR = 24.525331, SSIM = 0.625658, nsig = 30.00
+Total elapsed time = 5.370642 min
+
+3.tif:
+PSNR of the noisy image = 18.592880 
+Preprocessing, Iter 1 : PSNR = 24.333653, SSIM = 0.635833, nsig = 30.00
+Total elapsed time = 2.060596 min
+
+4.tif:
+PSNR of the noisy image = 18.592880 
+Preprocessing, Iter 1 : PSNR = 22.445138, SSIM = 0.560620, nsig = 30.00
+Total elapsed time = 2.057934 min
+
+5.tif:
+PSNR of the noisy image = 18.592880 
+Preprocessing, Iter 1 : PSNR = 27.968381, SSIM = 0.712159, nsig = 30.00
+Total elapsed time = 2.060790 min
+
+6.tif:
+PSNR of the noisy image = 18.592391 
+Preprocessing, Iter 1 : PSNR = 23.798139, SSIM = 0.678472, nsig = 30.00
+Total elapsed time = 5.094561 min
+
+7.tif:
+PSNR of the noisy image = 18.594227 
+Preprocessing, Iter 1 : PSNR = 27.035124, SSIM = 0.697607, nsig = 30.00
+Total elapsed time = 5.004375 min
+
+8.tif:
+PSNR of the noisy image = 18.593002 
+Preprocessing, Iter 1 : PSNR = 27.690852, SSIM = 0.770911, nsig = 30.00
+Total elapsed time = 5.063751 min
+
+9.tif:
+PSNR of the noisy image = 18.591035 
+Preprocessing, Iter 1 : PSNR = 23.031646, SSIM = 0.620097, nsig = 30.00
+Total elapsed time = 2.619986 min
+
+Lena512.tif:
+PSNR of the noisy image = 18.592880 
+Preprocessing, Iter 1 : PSNR = 29.574367, SSIM = 0.802168, nsig = 30.00
+Total elapsed time = 2.060545 min
+
+1.tif:
+PSNR of the noisy image = 16.095362 
+Preprocessing, Iter 1 : PSNR = 25.752787, SSIM = 0.697285, nsig = 40.00
+Total elapsed time = 5.323952 min
+
+10.tif:
+PSNR of the noisy image = 16.093128 
+Preprocessing, Iter 1 : PSNR = 27.510661, SSIM = 0.680951, nsig = 40.00
+Total elapsed time = 3.398068 min
+
+2.tif:
+PSNR of the noisy image = 16.094177 
+Preprocessing, Iter 1 : PSNR = 23.902937, SSIM = 0.583808, nsig = 40.00
+Total elapsed time = 6.189349 min
+
+3.tif:
+PSNR of the noisy image = 16.094106 
+Preprocessing, Iter 1 : PSNR = 23.193468, SSIM = 0.591269, nsig = 40.00
+Total elapsed time = 2.371149 min
+
+4.tif:
+PSNR of the noisy image = 16.094106 
+Preprocessing, Iter 1 : PSNR = 21.852613, SSIM = 0.513143, nsig = 40.00
+Total elapsed time = 2.377292 min
+
+5.tif:
+PSNR of the noisy image = 16.094106 
+Preprocessing, Iter 1 : PSNR = 26.994906, SSIM = 0.667434, nsig = 40.00
+Total elapsed time = 2.376392 min
+
+6.tif:
+PSNR of the noisy image = 16.093616 
+Preprocessing, Iter 1 : PSNR = 23.093028, SSIM = 0.624322, nsig = 40.00
+Total elapsed time = 5.871453 min
+
+7.tif:
+PSNR of the noisy image = 16.095452 
+Preprocessing, Iter 1 : PSNR = 26.228229, SSIM = 0.649151, nsig = 40.00
+Total elapsed time = 5.622935 min
+
+8.tif:
+PSNR of the noisy image = 16.094227 
+Preprocessing, Iter 1 : PSNR = 26.748391, SSIM = 0.716405, nsig = 40.00
+Total elapsed time = 5.802816 min
+
+9.tif:
+PSNR of the noisy image = 16.092260 
+Preprocessing, Iter 1 : PSNR = 22.303384, SSIM = 0.573309, nsig = 40.00
+Total elapsed time = 3.032604 min
+
+Lena512.tif:
+PSNR of the noisy image = 16.094106 
+Preprocessing, Iter 1 : PSNR = 28.363340, SSIM = 0.756037, nsig = 40.00
+Total elapsed time = 2.377740 min
+
+1.tif:
+PSNR of the noisy image = 14.157162 
+Preprocessing, Iter 1 : PSNR = 25.141611, SSIM = 0.649340, nsig = 50.00
+Total elapsed time = 5.497073 min
+
+10.tif:
+PSNR of the noisy image = 14.154928 
+Preprocessing, Iter 1 : PSNR = 26.727985, SSIM = 0.640072, nsig = 50.00
+Total elapsed time = 3.410189 min
+
+2.tif:
+PSNR of the noisy image = 14.155977 
+Preprocessing, Iter 1 : PSNR = 23.469412, SSIM = 0.549765, nsig = 50.00
+Total elapsed time = 6.204706 min
+
+3.tif:
+PSNR of the noisy image = 14.155905 
+Preprocessing, Iter 1 : PSNR = 22.615648, SSIM = 0.559896, nsig = 50.00
+Total elapsed time = 2.389684 min
+
+4.tif:
+PSNR of the noisy image = 14.155905 
+Preprocessing, Iter 1 : PSNR = 21.515816, SSIM = 0.481941, nsig = 50.00
+Total elapsed time = 2.394763 min
+
+5.tif:
+PSNR of the noisy image = 14.155905 
+Preprocessing, Iter 1 : PSNR = 26.225367, SSIM = 0.625372, nsig = 50.00
+Total elapsed time = 2.396402 min
+
+6.tif:
+PSNR of the noisy image = 14.155416 
+Preprocessing, Iter 1 : PSNR = 22.678002, SSIM = 0.580984, nsig = 50.00
+Total elapsed time = 5.915447 min
+
+7.tif:
+PSNR of the noisy image = 14.157252 
+Preprocessing, Iter 1 : PSNR = 25.627701, SSIM = 0.603981, nsig = 50.00
+Total elapsed time = 5.665445 min
+
+8.tif:
+PSNR of the noisy image = 14.156027 
+Preprocessing, Iter 1 : PSNR = 26.131356, SSIM = 0.662569, nsig = 50.00
+Total elapsed time = 5.846257 min
+
+9.tif:
+PSNR of the noisy image = 14.154060 
+Preprocessing, Iter 1 : PSNR = 21.956150, SSIM = 0.539996, nsig = 50.00
+Total elapsed time = 3.020288 min
+
+Lena512.tif:
+PSNR of the noisy image = 14.155905 
+Preprocessing, Iter 1 : PSNR = 27.463367, SSIM = 0.708597, nsig = 50.00
+Total elapsed time = 2.375168 min
+
+1.tif:
+PSNR of the noisy image = 8.136562 
+Preprocessing, Iter 1 : PSNR = 22.686643, SSIM = 0.530656, nsig = 100.00
+Total elapsed time = 3.683164 min
+
+10.tif:
+PSNR of the noisy image = 8.134328 
+Preprocessing, Iter 1 : PSNR = 24.053613, SSIM = 0.527308, nsig = 100.00
+Total elapsed time = 2.342239 min
+
+2.tif:
+PSNR of the noisy image = 8.135377 
+Preprocessing, Iter 1 : PSNR = 21.480761, SSIM = 0.416478, nsig = 100.00
+Total elapsed time = 4.273339 min
+
+3.tif:
+PSNR of the noisy image = 8.135306 
+Preprocessing, Iter 1 : PSNR = 20.262815, SSIM = 0.434778, nsig = 100.00
+Total elapsed time = 1.635839 min
+
+4.tif:
+PSNR of the noisy image = 8.135306 
+Preprocessing, Iter 1 : PSNR = 19.917368, SSIM = 0.341291, nsig = 100.00
+Total elapsed time = 1.641717 min
+
+5.tif:
+PSNR of the noisy image = 8.135306 
+Preprocessing, Iter 1 : PSNR = 23.466153, SSIM = 0.496615, nsig = 100.00
+Total elapsed time = 1.647611 min
+
+6.tif:
+PSNR of the noisy image = 8.134816 
+Preprocessing, Iter 1 : PSNR = 20.925288, SSIM = 0.459637, nsig = 100.00
+Total elapsed time = 4.126702 min
+
+7.tif:
+PSNR of the noisy image = 8.136652 
+Preprocessing, Iter 1 : PSNR = 23.459434, SSIM = 0.485004, nsig = 100.00
+Total elapsed time = 3.880624 min
+
+8.tif:
+PSNR of the noisy image = 8.135427 
+Preprocessing, Iter 1 : PSNR = 23.948042, SSIM = 0.561128, nsig = 100.00
+Total elapsed time = 3.984589 min
+
+9.tif:
+PSNR of the noisy image = 8.133460 
+Preprocessing, Iter 1 : PSNR = 20.331167, SSIM = 0.424418, nsig = 100.00
+Total elapsed time = 2.078687 min
+
+Lena512.tif:
+PSNR of the noisy image = 8.135306 
+Preprocessing, Iter 1 : PSNR = 24.382379, SSIM = 0.603201, nsig = 100.00
+Total elapsed time = 1.636458 min
+
+>> 

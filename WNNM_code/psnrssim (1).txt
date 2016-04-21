@@ -1,0 +1,96 @@
+C:\Users\ak89250\Desktop\WNNM_code\Data\Lena512.tif: PSNR = 36.05  SSIM = 0.917717 FSIM = 0.982697
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\Monarch_full.tif: PSNR = 35.04  SSIM = 0.960292 FSIM = 0.967437
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\barbara.tif: PSNR = 35.52  SSIM = 0.944717 FSIM = 0.983886
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\boat.tif: PSNR = 34.07  SSIM = 0.888930 FSIM = 0.982731
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\cameraman.tif: PSNR = 34.42  SSIM = 0.932555 FSIM = 0.958641
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\couple.tif: PSNR = 34.13  SSIM = 0.909286 FSIM = 0.982692
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\fingerprint.tif: PSNR = 32.81  SSIM = 0.970602 FSIM = 0.993950
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\hill.tif: PSNR = 33.75  SSIM = 0.885521 FSIM = 0.978366
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\house.tif: PSNR = 36.93  SSIM = 0.922764 FSIM = 0.954778
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\man.tif: PSNR = 34.20  SSIM = 0.910436 FSIM = 0.979900
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\peppers256.tif: PSNR = 34.95  SSIM = 0.930012 FSIM = 0.962441
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\straw.tif: PSNR = 31.72  SSIM = 0.964960 FSIM = 0.971946
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\Lena512.tif: PSNR = 31.43  SSIM = 0.850247 FSIM = 0.946829
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\Monarch_full.tif: PSNR = 28.91  SSIM = 0.892560 FSIM = 0.919250
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\barbara.tif: PSNR = 30.31  SSIM = 0.881150 FSIM = 0.952965
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\boat.tif: PSNR = 29.23  SSIM = 0.779191 FSIM = 0.933185
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\cameraman.tif: PSNR = 28.78  SSIM = 0.839917 FSIM = 0.883177
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\couple.tif: PSNR = 28.97  SSIM = 0.794482 FSIM = 0.933402
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\fingerprint.tif: PSNR = 26.96  SSIM = 0.894828 FSIM = 0.970500
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\hill.tif: PSNR = 29.23  SSIM = 0.749846 FSIM = 0.924961
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\house.tif: PSNR = 32.55  SSIM = 0.852288 FSIM = 0.908288
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\man.tif: PSNR = 28.98  SSIM = 0.781826 FSIM = 0.926409
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\peppers256.tif: PSNR = 29.49  SSIM = 0.856691 FSIM = 0.911541
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\straw.tif: PSNR = 25.44  SSIM = 0.850606 FSIM = 0.898255
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\Lena512.tif: PSNR = 29.25  SSIM = 0.805879 FSIM = 0.918269
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\Monarch_full.tif: PSNR = 26.32  SSIM = 0.834969 FSIM = 0.881465
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\barbara.tif: PSNR = 27.79  SSIM = 0.819945 FSIM = 0.925760
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\boat.tif: PSNR = 26.97  SSIM = 0.708263 FSIM = 0.889254
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\cameraman.tif: PSNR = 26.42  SSIM = 0.784838 FSIM = 0.829508
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\couple.tif: PSNR = 26.64  SSIM = 0.713457 FSIM = 0.889629
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\fingerprint.tif: PSNR = 24.66  SSIM = 0.834511 FSIM = 0.947194
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\hill.tif: PSNR = 27.33  SSIM = 0.676395 FSIM = 0.883690
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\house.tif: PSNR = 30.33  SSIM = 0.823157 FSIM = 0.883634
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\man.tif: PSNR = 26.94  SSIM = 0.709054 FSIM = 0.883506
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\peppers256.tif: PSNR = 26.91  SSIM = 0.800795 FSIM = 0.873580
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\straw.tif: PSNR = 22.93  SSIM = 0.734352 FSIM = 0.835592
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\Lena512.tif: PSNR = 26.21  SSIM = 0.725631 FSIM = 0.862262
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\Monarch_full.tif: PSNR = 22.95  SSIM = 0.725739 FSIM = 0.811098
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\barbara.tif: PSNR = 24.37  SSIM = 0.686242 FSIM = 0.864986
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\boat.tif: PSNR = 24.11  SSIM = 0.598120 FSIM = 0.804944
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\cameraman.tif: PSNR = 23.36  SSIM = 0.696722 FSIM = 0.764691
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\couple.tif: PSNR = 23.56  SSIM = 0.570163 FSIM = 0.790444
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\fingerprint.tif: PSNR = 21.83  SSIM = 0.719991 FSIM = 0.893284
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\hill.tif: PSNR = 24.76  SSIM = 0.572048 FSIM = 0.805718
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\house.tif: PSNR = 26.66  SSIM = 0.753608 FSIM = 0.830466
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\man.tif: PSNR = 24.36  SSIM = 0.604799 FSIM = 0.809273
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\peppers256.tif: PSNR = 23.45  SSIM = 0.697733 FSIM = 0.815175
+
+C:\Users\ak89250\Desktop\WNNM_code\Data\straw.tif: PSNR = 19.90  SSIM = 0.464779 FSIM = 0.682356
+

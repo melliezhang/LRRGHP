@@ -1,0 +1,12 @@
+K>> temp1 = bsxfun(@minus,temp,207.2016);
+K>> temp1 = bsxfun(@minus,aa,207.2016);
+K>> plot(diag(abs(SigmaY)),'*-r','LineWidth',2)
+K>> plot(diag(abs(temp1)),'*-r','LineWidth',2)
+K>> plot(diag(abs(SigmaY)),'*-r','LineWidth',2)
+K>> hold on
+K>> plot(diag(abs(temp1)),'*-b','LineWidth',2)
+K>> set(gca,'FontSize',13)
+%ylabel('Singular Values'); xlabel('Iterations');
+legend('Singular Values','Weights');
+grid on
+grid minor

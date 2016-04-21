@@ -1,0 +1,361 @@
+Lena512.tif:
+PSNR of the noisy image = 28.135306 
+Preprocessing, Iter 1 : PSNR = 34.056140, SSIM = 0.848941, nsig = 10.00
+Preprocessing, Iter 2 : PSNR = 34.409894, SSIM = 0.869240, nsig = 1.72
+Preprocessing, Iter 3 : PSNR = 34.832012, SSIM = 0.885430, nsig = 1.64
+Preprocessing, Iter 4 : PSNR = 35.231239, SSIM = 0.901154, nsig = 1.53
+Monarch_full.tif:
+PSNR of the noisy image = 28.103650 
+Preprocessing, Iter 1 : PSNR = 33.313498, SSIM = 0.910483, nsig = 10.00
+Preprocessing, Iter 2 : PSNR = 33.397944, SSIM = 0.922980, nsig = 1.76
+Preprocessing, Iter 3 : PSNR = 33.690350, SSIM = 0.934886, nsig = 1.70
+Preprocessing, Iter 4 : PSNR = 33.877940, SSIM = 0.946656, nsig = 1.57
+barbara.tif:
+PSNR of the noisy image = 28.135306 
+Preprocessing, Iter 1 : PSNR = 33.732396, SSIM = 0.896216, nsig = 10.00
+Preprocessing, Iter 2 : PSNR = 33.218281, SSIM = 0.892122, nsig = 1.83
+Preprocessing, Iter 3 : PSNR = 33.547833, SSIM = 0.904706, nsig = 1.78
+Preprocessing, Iter 4 : PSNR = 33.665227, SSIM = 0.913920, nsig = 1.71
+boat.tif:
+PSNR of the noisy image = 28.135306 
+Preprocessing, Iter 1 : PSNR = 33.111802, SSIM = 0.861218, nsig = 10.00
+Preprocessing, Iter 2 : PSNR = 33.073966, SSIM = 0.864489, nsig = 1.76
+Preprocessing, Iter 3 : PSNR = 33.304432, SSIM = 0.873023, nsig = 1.71
+Preprocessing, Iter 4 : PSNR = 33.482371, SSIM = 0.879976, nsig = 1.64
+cameraman.tif:
+PSNR of the noisy image = 28.103650 
+Preprocessing, Iter 1 : PSNR = 32.809116, SSIM = 0.843493, nsig = 10.00
+Preprocessing, Iter 2 : PSNR = 33.217514, SSIM = 0.875974, nsig = 1.75
+Preprocessing, Iter 3 : PSNR = 33.547192, SSIM = 0.897036, nsig = 1.68
+Preprocessing, Iter 4 : PSNR = 33.807383, SSIM = 0.918699, nsig = 1.52
+couple.tif:
+PSNR of the noisy image = 28.135306 
+Preprocessing, Iter 1 : PSNR = 33.167139, SSIM = 0.880606, nsig = 10.00
+Preprocessing, Iter 2 : PSNR = 33.072127, SSIM = 0.881746, nsig = 1.76
+Preprocessing, Iter 3 : PSNR = 33.309442, SSIM = 0.889979, nsig = 1.70
+Preprocessing, Iter 4 : PSNR = 33.502868, SSIM = 0.897132, nsig = 1.63
+fingerprint.tif:
+PSNR of the noisy image = 28.135306 
+Preprocessing, Iter 1 : PSNR = 32.154666, SSIM = 0.966473, nsig = 10.00
+Preprocessing, Iter 2 : PSNR = 31.600621, SSIM = 0.962366, nsig = 1.91
+Preprocessing, Iter 3 : PSNR = 31.743470, SSIM = 0.963568, nsig = 1.88
+Preprocessing, Iter 4 : PSNR = 31.833964, SSIM = 0.964528, nsig = 1.85
+hill.tif:
+PSNR of the noisy image = 28.135306 
+Preprocessing, Iter 1 : PSNR = 32.999368, SSIM = 0.861121, nsig = 10.00
+Preprocessing, Iter 2 : PSNR = 32.913086, SSIM = 0.861117, nsig = 1.74
+Preprocessing, Iter 3 : PSNR = 33.112536, SSIM = 0.868664, nsig = 1.69
+Preprocessing, Iter 4 : PSNR = 33.252660, SSIM = 0.874443, nsig = 1.64
+house.tif:
+PSNR of the noisy image = 28.103650 
+Preprocessing, Iter 1 : PSNR = 34.346284, SSIM = 0.839484, nsig = 10.00
+Preprocessing, Iter 2 : PSNR = 34.812677, SSIM = 0.864546, nsig = 1.72
+Preprocessing, Iter 3 : PSNR = 35.365016, SSIM = 0.884301, nsig = 1.64
+Preprocessing, Iter 4 : PSNR = 35.878377, SSIM = 0.903604, nsig = 1.51
+man.tif:
+PSNR of the noisy image = 28.135306 
+Preprocessing, Iter 1 : PSNR = 33.104968, SSIM = 0.865238, nsig = 10.00
+Preprocessing, Iter 2 : PSNR = 33.154361, SSIM = 0.872361, nsig = 1.74
+Preprocessing, Iter 3 : PSNR = 33.401928, SSIM = 0.883566, nsig = 1.68
+Preprocessing, Iter 4 : PSNR = 33.626113, SSIM = 0.894443, nsig = 1.61
+peppers256.tif:
+PSNR of the noisy image = 28.103650 
+Preprocessing, Iter 1 : PSNR = 33.514571, SSIM = 0.879321, nsig = 10.00
+Preprocessing, Iter 2 : PSNR = 33.752319, SSIM = 0.893828, nsig = 1.72
+Preprocessing, Iter 3 : PSNR = 34.042253, SSIM = 0.905729, nsig = 1.65
+Preprocessing, Iter 4 : PSNR = 34.331879, SSIM = 0.918403, nsig = 1.54
+straw.tif:
+PSNR of the noisy image = 28.103650 
+Preprocessing, Iter 1 : PSNR = 31.162321, SSIM = 0.960756, nsig = 10.00
+Preprocessing, Iter 2 : PSNR = 30.679904, SSIM = 0.956083, nsig = 1.98
+Preprocessing, Iter 3 : PSNR = 30.764996, SSIM = 0.956959, nsig = 1.96
+Preprocessing, Iter 4 : PSNR = 30.747715, SSIM = 0.957016, nsig = 1.93
+Lena512.tif:
+PSNR of the noisy image = 18.592880 
+Preprocessing, Iter 1 : PSNR = 26.151078, SSIM = 0.498862, nsig = 30.00
+Preprocessing, Iter 2 : PSNR = 28.032978, SSIM = 0.623590, nsig = 5.12
+Preprocessing, Iter 3 : PSNR = 29.349408, SSIM = 0.721723, nsig = 4.67
+Preprocessing, Iter 4 : PSNR = 30.275331, SSIM = 0.799620, nsig = 4.06
+Preprocessing, Iter 5 : PSNR = 30.720334, SSIM = 0.831351, nsig = 3.31
+Preprocessing, Iter 6 : PSNR = 30.819853, SSIM = 0.838391, nsig = 2.95
+Monarch_full.tif:
+PSNR of the noisy image = 18.561225 
+Preprocessing, Iter 1 : PSNR = 25.644049, SSIM = 0.653188, nsig = 30.00
+Preprocessing, Iter 2 : PSNR = 26.269227, SSIM = 0.705666, nsig = 5.28
+Preprocessing, Iter 3 : PSNR = 27.068751, SSIM = 0.769278, nsig = 4.94
+Preprocessing, Iter 4 : PSNR = 27.642243, SSIM = 0.825920, nsig = 4.55
+Preprocessing, Iter 5 : PSNR = 28.066666, SSIM = 0.865197, nsig = 3.98
+Preprocessing, Iter 6 : PSNR = 28.136575, SSIM = 0.874067, nsig = 3.67
+barbara.tif:
+PSNR of the noisy image = 18.592880 
+Preprocessing, Iter 1 : PSNR = 26.022000, SSIM = 0.620293, nsig = 30.00
+Preprocessing, Iter 2 : PSNR = 26.598984, SSIM = 0.664243, nsig = 5.33
+Preprocessing, Iter 3 : PSNR = 27.561082, SSIM = 0.730331, nsig = 4.98
+Preprocessing, Iter 4 : PSNR = 28.261500, SSIM = 0.790373, nsig = 4.60
+Preprocessing, Iter 5 : PSNR = 28.846589, SSIM = 0.839187, nsig = 4.03
+Preprocessing, Iter 6 : PSNR = 29.042276, SSIM = 0.852364, nsig = 3.70
+boat.tif:
+PSNR of the noisy image = 18.592880 
+Preprocessing, Iter 1 : PSNR = 25.694771, SSIM = 0.544526, nsig = 30.00
+Preprocessing, Iter 2 : PSNR = 26.878342, SSIM = 0.620944, nsig = 5.15
+Preprocessing, Iter 3 : PSNR = 27.775221, SSIM = 0.684318, nsig = 4.75
+Preprocessing, Iter 4 : PSNR = 28.415941, SSIM = 0.737926, nsig = 4.25
+Preprocessing, Iter 5 : PSNR = 28.757617, SSIM = 0.764670, nsig = 3.56
+Preprocessing, Iter 6 : PSNR = 28.834720, SSIM = 0.769788, nsig = 3.20
+cameraman.tif:
+PSNR of the noisy image = 18.561225 
+Preprocessing, Iter 1 : PSNR = 25.425211, SSIM = 0.513826, nsig = 30.00
+Preprocessing, Iter 2 : PSNR = 26.471998, SSIM = 0.602345, nsig = 5.26
+Preprocessing, Iter 3 : PSNR = 27.388987, SSIM = 0.694921, nsig = 4.89
+Preprocessing, Iter 4 : PSNR = 28.055500, SSIM = 0.786415, nsig = 4.36
+Preprocessing, Iter 5 : PSNR = 28.372587, SSIM = 0.829968, nsig = 3.69
+Preprocessing, Iter 6 : PSNR = 28.398324, SSIM = 0.837720, nsig = 3.33
+couple.tif:
+PSNR of the noisy image = 18.592880 
+Preprocessing, Iter 1 : PSNR = 25.594291, SSIM = 0.573387, nsig = 30.00
+Preprocessing, Iter 2 : PSNR = 26.577714, SSIM = 0.638898, nsig = 5.15
+Preprocessing, Iter 3 : PSNR = 27.391063, SSIM = 0.696818, nsig = 4.77
+Preprocessing, Iter 4 : PSNR = 27.956681, SSIM = 0.744080, nsig = 4.33
+Preprocessing, Iter 5 : PSNR = 28.317041, SSIM = 0.772407, nsig = 3.68
+Preprocessing, Iter 6 : PSNR = 28.417566, SSIM = 0.778849, nsig = 3.36
+fingerprint.tif:
+PSNR of the noisy image = 18.592880 
+Preprocessing, Iter 1 : PSNR = 25.153628, SSIM = 0.849015, nsig = 30.00
+Preprocessing, Iter 2 : PSNR = 25.429099, SSIM = 0.857589, nsig = 5.27
+Preprocessing, Iter 3 : PSNR = 25.920756, SSIM = 0.871279, nsig = 4.96
+Preprocessing, Iter 4 : PSNR = 26.254178, SSIM = 0.880453, nsig = 4.66
+Preprocessing, Iter 5 : PSNR = 26.571514, SSIM = 0.887958, nsig = 4.24
+Preprocessing, Iter 6 : PSNR = 26.678617, SSIM = 0.889974, nsig = 3.93
+hill.tif:
+PSNR of the noisy image = 18.592880 
+Preprocessing, Iter 1 : PSNR = 25.743871, SSIM = 0.533358, nsig = 30.00
+Preprocessing, Iter 2 : PSNR = 27.014085, SSIM = 0.613287, nsig = 5.12
+Preprocessing, Iter 3 : PSNR = 27.898639, SSIM = 0.673444, nsig = 4.70
+Preprocessing, Iter 4 : PSNR = 28.474921, SSIM = 0.717713, nsig = 4.22
+Preprocessing, Iter 5 : PSNR = 28.803941, SSIM = 0.739245, nsig = 3.53
+Preprocessing, Iter 6 : PSNR = 28.866056, SSIM = 0.742374, nsig = 3.21
+house.tif:
+PSNR of the noisy image = 18.561225 
+Preprocessing, Iter 1 : PSNR = 26.371643, SSIM = 0.496480, nsig = 30.00
+Preprocessing, Iter 2 : PSNR = 28.173207, SSIM = 0.606745, nsig = 5.18
+Preprocessing, Iter 3 : PSNR = 29.742173, SSIM = 0.706381, nsig = 4.74
+Preprocessing, Iter 4 : PSNR = 30.990514, SSIM = 0.795310, nsig = 4.15
+Preprocessing, Iter 5 : PSNR = 31.674463, SSIM = 0.837610, nsig = 3.36
+Preprocessing, Iter 6 : PSNR = 31.813761, SSIM = 0.844099, nsig = 2.98
+man.tif:
+PSNR of the noisy image = 18.592880 
+Preprocessing, Iter 1 : PSNR = 25.676908, SSIM = 0.533936, nsig = 30.00
+Preprocessing, Iter 2 : PSNR = 26.858417, SSIM = 0.615530, nsig = 5.12
+Preprocessing, Iter 3 : PSNR = 27.714042, SSIM = 0.682936, nsig = 4.72
+Preprocessing, Iter 4 : PSNR = 28.299077, SSIM = 0.738942, nsig = 4.24
+Preprocessing, Iter 5 : PSNR = 28.623625, SSIM = 0.769463, nsig = 3.57
+Preprocessing, Iter 6 : PSNR = 28.689474, SSIM = 0.775349, nsig = 3.25
+peppers256.tif:
+PSNR of the noisy image = 18.561225 
+Preprocessing, Iter 1 : PSNR = 25.857320, SSIM = 0.577384, nsig = 30.00
+Preprocessing, Iter 2 : PSNR = 26.963883, SSIM = 0.662441, nsig = 5.15
+Preprocessing, Iter 3 : PSNR = 27.872631, SSIM = 0.737351, nsig = 4.76
+Preprocessing, Iter 4 : PSNR = 28.531577, SSIM = 0.801866, nsig = 4.27
+Preprocessing, Iter 5 : PSNR = 28.887543, SSIM = 0.834542, nsig = 3.61
+Preprocessing, Iter 6 : PSNR = 28.971179, SSIM = 0.842300, nsig = 3.27
+straw.tif:
+PSNR of the noisy image = 18.561225 
+Preprocessing, Iter 1 : PSNR = 24.135636, SSIM = 0.805385, nsig = 30.00
+Preprocessing, Iter 2 : PSNR = 23.947397, SSIM = 0.795935, nsig = 5.35
+Preprocessing, Iter 3 : PSNR = 24.249468, SSIM = 0.807102, nsig = 5.14
+Preprocessing, Iter 4 : PSNR = 24.403413, SSIM = 0.813053, nsig = 4.99
+Preprocessing, Iter 5 : PSNR = 24.650633, SSIM = 0.821561, nsig = 4.72
+Preprocessing, Iter 6 : PSNR = 24.738352, SSIM = 0.825181, nsig = 4.58
+Lena512.tif:
+PSNR of the noisy image = 14.155905 
+Preprocessing, Iter 1 : PSNR = 22.915106, SSIM = 0.340459, nsig = 50.00
+Preprocessing, Iter 2 : PSNR = 26.060458, SSIM = 0.543034, nsig = 9.03
+Preprocessing, Iter 3 : PSNR = 27.957284, SSIM = 0.719878, nsig = 7.62
+Preprocessing, Iter 4 : PSNR = 28.497401, SSIM = 0.781073, nsig = 5.82
+Preprocessing, Iter 5 : PSNR = 28.695882, SSIM = 0.795035, nsig = 4.43
+Preprocessing, Iter 6 : PSNR = 28.721790, SSIM = 0.798261, nsig = 3.91
+Monarch_full.tif:
+PSNR of the noisy image = 14.124250 
+Preprocessing, Iter 1 : PSNR = 22.209452, SSIM = 0.501422, nsig = 50.00
+Preprocessing, Iter 2 : PSNR = 23.889696, SSIM = 0.631561, nsig = 9.17
+Preprocessing, Iter 3 : PSNR = 25.036055, SSIM = 0.754066, nsig = 8.06
+Preprocessing, Iter 4 : PSNR = 25.475722, SSIM = 0.806882, nsig = 6.43
+Preprocessing, Iter 5 : PSNR = 25.631326, SSIM = 0.819299, nsig = 5.20
+Preprocessing, Iter 6 : PSNR = 25.656362, SSIM = 0.822734, nsig = 4.60
+barbara.tif:
+PSNR of the noisy image = 14.155905 
+Preprocessing, Iter 1 : PSNR = 22.668826, SSIM = 0.461360, nsig = 50.00
+Preprocessing, Iter 2 : PSNR = 24.668825, SSIM = 0.594009, nsig = 9.13
+Preprocessing, Iter 3 : PSNR = 26.056573, SSIM = 0.725701, nsig = 7.90
+Preprocessing, Iter 4 : PSNR = 26.353150, SSIM = 0.771621, nsig = 6.24
+Preprocessing, Iter 5 : PSNR = 26.508492, SSIM = 0.780122, nsig = 4.95
+Preprocessing, Iter 6 : PSNR = 26.416949, SSIM = 0.778177, nsig = 4.40
+boat.tif:
+PSNR of the noisy image = 14.155905 
+Preprocessing, Iter 1 : PSNR = 22.491530, SSIM = 0.379549, nsig = 50.00
+Preprocessing, Iter 2 : PSNR = 24.866023, SSIM = 0.530370, nsig = 9.00
+Preprocessing, Iter 3 : PSNR = 26.166979, SSIM = 0.651619, nsig = 7.68
+Preprocessing, Iter 4 : PSNR = 26.520011, SSIM = 0.692355, nsig = 5.92
+Preprocessing, Iter 5 : PSNR = 26.623083, SSIM = 0.698756, nsig = 4.52
+Preprocessing, Iter 6 : PSNR = 26.649010, SSIM = 0.700046, nsig = 3.97
+cameraman.tif:
+PSNR of the noisy image = 14.124250 
+Preprocessing, Iter 1 : PSNR = 22.204502, SSIM = 0.371263, nsig = 50.00
+Preprocessing, Iter 2 : PSNR = 24.164108, SSIM = 0.517903, nsig = 9.23
+Preprocessing, Iter 3 : PSNR = 25.493497, SSIM = 0.693353, nsig = 8.03
+Preprocessing, Iter 4 : PSNR = 25.937970, SSIM = 0.769802, nsig = 6.25
+Preprocessing, Iter 5 : PSNR = 26.052529, SSIM = 0.781065, nsig = 4.88
+Preprocessing, Iter 6 : PSNR = 26.076142, SSIM = 0.784052, nsig = 4.32
+couple.tif:
+PSNR of the noisy image = 14.155905 
+Preprocessing, Iter 1 : PSNR = 22.355575, SSIM = 0.399294, nsig = 50.00
+Preprocessing, Iter 2 : PSNR = 24.514070, SSIM = 0.541459, nsig = 8.97
+Preprocessing, Iter 3 : PSNR = 25.661924, SSIM = 0.650622, nsig = 7.66
+Preprocessing, Iter 4 : PSNR = 25.958246, SSIM = 0.685699, nsig = 5.95
+Preprocessing, Iter 5 : PSNR = 26.059514, SSIM = 0.692061, nsig = 4.53
+Preprocessing, Iter 6 : PSNR = 26.099852, SSIM = 0.694055, nsig = 4.00
+fingerprint.tif:
+PSNR of the noisy image = 14.155905 
+Preprocessing, Iter 1 : PSNR = 21.913001, SSIM = 0.728516, nsig = 50.00
+Preprocessing, Iter 2 : PSNR = 23.356897, SSIM = 0.791258, nsig = 9.01
+Preprocessing, Iter 3 : PSNR = 24.154271, SSIM = 0.820845, nsig = 7.90
+Preprocessing, Iter 4 : PSNR = 24.336555, SSIM = 0.824593, nsig = 6.42
+Preprocessing, Iter 5 : PSNR = 24.412886, SSIM = 0.824515, nsig = 5.10
+Preprocessing, Iter 6 : PSNR = 24.354627, SSIM = 0.819725, nsig = 4.52
+hill.tif:
+PSNR of the noisy image = 14.155905 
+Preprocessing, Iter 1 : PSNR = 22.583154, SSIM = 0.357480, nsig = 50.00
+Preprocessing, Iter 2 : PSNR = 25.149916, SSIM = 0.516299, nsig = 8.98
+Preprocessing, Iter 3 : PSNR = 26.499445, SSIM = 0.628075, nsig = 7.60
+Preprocessing, Iter 4 : PSNR = 26.827937, SSIM = 0.659133, nsig = 5.86
+Preprocessing, Iter 5 : PSNR = 26.916196, SSIM = 0.663188, nsig = 4.33
+Preprocessing, Iter 6 : PSNR = 26.950753, SSIM = 0.664010, nsig = 3.78
+house.tif:
+PSNR of the noisy image = 14.124250 
+Preprocessing, Iter 1 : PSNR = 22.986695, SSIM = 0.347152, nsig = 50.00
+Preprocessing, Iter 2 : PSNR = 26.084278, SSIM = 0.537333, nsig = 9.05
+Preprocessing, Iter 3 : PSNR = 28.311477, SSIM = 0.723528, nsig = 7.70
+Preprocessing, Iter 4 : PSNR = 29.079050, SSIM = 0.794972, nsig = 5.76
+Preprocessing, Iter 5 : PSNR = 29.345241, SSIM = 0.808151, nsig = 4.35
+Preprocessing, Iter 6 : PSNR = 29.436834, SSIM = 0.812148, nsig = 3.75
+man.tif:
+PSNR of the noisy image = 14.155905 
+Preprocessing, Iter 1 : PSNR = 22.530648, SSIM = 0.365539, nsig = 50.00
+Preprocessing, Iter 2 : PSNR = 24.956854, SSIM = 0.526616, nsig = 8.97
+Preprocessing, Iter 3 : PSNR = 26.219110, SSIM = 0.652384, nsig = 7.62
+Preprocessing, Iter 4 : PSNR = 26.543680, SSIM = 0.693713, nsig = 5.90
+Preprocessing, Iter 5 : PSNR = 26.633105, SSIM = 0.700778, nsig = 4.47
+Preprocessing, Iter 6 : PSNR = 26.661290, SSIM = 0.702351, nsig = 3.95
+peppers256.tif:
+PSNR of the noisy image = 14.124250 
+Preprocessing, Iter 1 : PSNR = 22.506172, SSIM = 0.417557, nsig = 50.00
+Preprocessing, Iter 2 : PSNR = 24.652595, SSIM = 0.584178, nsig = 9.02
+Preprocessing, Iter 3 : PSNR = 25.894469, SSIM = 0.721588, nsig = 7.78
+Preprocessing, Iter 4 : PSNR = 26.319501, SSIM = 0.776591, nsig = 6.11
+Preprocessing, Iter 5 : PSNR = 26.488113, SSIM = 0.790638, nsig = 4.91
+Preprocessing, Iter 6 : PSNR = 26.543742, SSIM = 0.795711, nsig = 4.39
+straw.tif:
+PSNR of the noisy image = 14.124250 
+Preprocessing, Iter 1 : PSNR = 20.918034, SSIM = 0.636379, nsig = 50.00
+Preprocessing, Iter 2 : PSNR = 21.355782, SSIM = 0.651423, nsig = 9.34
+Preprocessing, Iter 3 : PSNR = 21.955325, SSIM = 0.679700, nsig = 8.52
+Preprocessing, Iter 4 : PSNR = 22.148889, SSIM = 0.683639, nsig = 7.62
+Preprocessing, Iter 5 : PSNR = 22.324271, SSIM = 0.686278, nsig = 6.30
+Preprocessing, Iter 6 : PSNR = 22.313779, SSIM = 0.683146, nsig = 5.78
+Lena512.tif:
+PSNR of the noisy image = 8.135306 
+Preprocessing, Iter 1 : PSNR = 15.542500, SSIM = 0.108824, nsig = 100.00
+Preprocessing, Iter 2 : PSNR = 17.583215, SSIM = 0.155435, nsig = 20.84
+Preprocessing, Iter 3 : PSNR = 20.508066, SSIM = 0.263319, nsig = 19.00
+Preprocessing, Iter 4 : PSNR = 22.895476, SSIM = 0.442069, nsig = 16.28
+Preprocessing, Iter 5 : PSNR = 24.889016, SSIM = 0.647139, nsig = 12.58
+Preprocessing, Iter 6 : PSNR = 24.896705, SSIM = 0.671054, nsig = 10.96
+Monarch_full.tif:
+PSNR of the noisy image = 8.103650 
+Preprocessing, Iter 1 : PSNR = 15.169885, SSIM = 0.230743, nsig = 100.00
+Preprocessing, Iter 2 : PSNR = 16.608951, SSIM = 0.276747, nsig = 20.90
+Preprocessing, Iter 3 : PSNR = 18.655558, SSIM = 0.364477, nsig = 19.27
+Preprocessing, Iter 4 : PSNR = 20.240703, SSIM = 0.502534, nsig = 16.90
+Preprocessing, Iter 5 : PSNR = 21.459149, SSIM = 0.654106, nsig = 13.55
+Preprocessing, Iter 6 : PSNR = 21.448728, SSIM = 0.676549, nsig = 11.85
+barbara.tif:
+PSNR of the noisy image = 8.135306 
+Preprocessing, Iter 1 : PSNR = 15.390704, SSIM = 0.176757, nsig = 100.00
+Preprocessing, Iter 2 : PSNR = 17.070941, SSIM = 0.219285, nsig = 20.90
+Preprocessing, Iter 3 : PSNR = 19.449922, SSIM = 0.311424, nsig = 19.17
+Preprocessing, Iter 4 : PSNR = 21.173115, SSIM = 0.443079, nsig = 16.75
+Preprocessing, Iter 5 : PSNR = 22.563619, SSIM = 0.590655, nsig = 13.24
+Preprocessing, Iter 6 : PSNR = 22.524136, SSIM = 0.608446, nsig = 11.67
+boat.tif:
+PSNR of the noisy image = 8.135306 
+Preprocessing, Iter 1 : PSNR = 15.433576, SSIM = 0.135640, nsig = 100.00
+Preprocessing, Iter 2 : PSNR = 17.293225, SSIM = 0.179066, nsig = 20.82
+Preprocessing, Iter 3 : PSNR = 19.891694, SSIM = 0.269423, nsig = 19.02
+Preprocessing, Iter 4 : PSNR = 21.845942, SSIM = 0.403572, nsig = 16.38
+Preprocessing, Iter 5 : PSNR = 23.268338, SSIM = 0.552705, nsig = 12.62
+Preprocessing, Iter 6 : PSNR = 23.213417, SSIM = 0.564741, nsig = 10.98
+cameraman.tif:
+PSNR of the noisy image = 8.103650 
+Preprocessing, Iter 1 : PSNR = 15.261034, SSIM = 0.159401, nsig = 100.00
+Preprocessing, Iter 2 : PSNR = 16.866302, SSIM = 0.193675, nsig = 20.91
+Preprocessing, Iter 3 : PSNR = 19.192565, SSIM = 0.272333, nsig = 19.22
+Preprocessing, Iter 4 : PSNR = 21.061951, SSIM = 0.441237, nsig = 16.64
+Preprocessing, Iter 5 : PSNR = 22.321651, SSIM = 0.638622, nsig = 13.07
+Preprocessing, Iter 6 : PSNR = 22.220948, SSIM = 0.671850, nsig = 11.48
+couple.tif:
+PSNR of the noisy image = 8.135306 
+Preprocessing, Iter 1 : PSNR = 15.373298, SSIM = 0.138451, nsig = 100.00
+Preprocessing, Iter 2 : PSNR = 17.191146, SSIM = 0.183286, nsig = 20.82
+Preprocessing, Iter 3 : PSNR = 19.665728, SSIM = 0.270533, nsig = 19.02
+Preprocessing, Iter 4 : PSNR = 21.496448, SSIM = 0.390991, nsig = 16.42
+Preprocessing, Iter 5 : PSNR = 22.795305, SSIM = 0.523351, nsig = 12.67
+Preprocessing, Iter 6 : PSNR = 22.766208, SSIM = 0.531566, nsig = 10.93
+fingerprint.tif:
+PSNR of the noisy image = 8.135306 
+Preprocessing, Iter 1 : PSNR = 15.139875, SSIM = 0.376267, nsig = 100.00
+Preprocessing, Iter 2 : PSNR = 16.595229, SSIM = 0.448053, nsig = 20.87
+Preprocessing, Iter 3 : PSNR = 18.539811, SSIM = 0.548268, nsig = 19.24
+Preprocessing, Iter 4 : PSNR = 19.962632, SSIM = 0.625857, nsig = 16.97
+Preprocessing, Iter 5 : PSNR = 21.061244, SSIM = 0.681037, nsig = 13.63
+Preprocessing, Iter 6 : PSNR = 21.102715, SSIM = 0.678320, nsig = 11.84
+hill.tif:
+PSNR of the noisy image = 8.135306 
+Preprocessing, Iter 1 : PSNR = 15.480933, SSIM = 0.111069, nsig = 100.00
+Preprocessing, Iter 2 : PSNR = 17.433180, SSIM = 0.156508, nsig = 20.83
+Preprocessing, Iter 3 : PSNR = 20.179338, SSIM = 0.251356, nsig = 18.99
+Preprocessing, Iter 4 : PSNR = 22.286473, SSIM = 0.379748, nsig = 16.30
+Preprocessing, Iter 5 : PSNR = 23.900638, SSIM = 0.519705, nsig = 12.49
+Preprocessing, Iter 6 : PSNR = 23.909997, SSIM = 0.528748, nsig = 10.75
+house.tif:
+PSNR of the noisy image = 8.103650 
+Preprocessing, Iter 1 : PSNR = 15.460746, SSIM = 0.120573, nsig = 100.00
+Preprocessing, Iter 2 : PSNR = 17.353048, SSIM = 0.164165, nsig = 20.86
+Preprocessing, Iter 3 : PSNR = 20.196588, SSIM = 0.261982, nsig = 19.09
+Preprocessing, Iter 4 : PSNR = 22.769935, SSIM = 0.444983, nsig = 16.31
+Preprocessing, Iter 5 : PSNR = 24.725333, SSIM = 0.662334, nsig = 12.50
+Preprocessing, Iter 6 : PSNR = 24.798923, SSIM = 0.697093, nsig = 10.70
+man.tif:
+PSNR of the noisy image = 8.135306 
+Preprocessing, Iter 1 : PSNR = 15.460063, SSIM = 0.123035, nsig = 100.00
+Preprocessing, Iter 2 : PSNR = 17.357413, SSIM = 0.168025, nsig = 20.82
+Preprocessing, Iter 3 : PSNR = 20.006105, SSIM = 0.262563, nsig = 19.00
+Preprocessing, Iter 4 : PSNR = 22.030688, SSIM = 0.401859, nsig = 16.37
+Preprocessing, Iter 5 : PSNR = 23.536435, SSIM = 0.556374, nsig = 12.62
+Preprocessing, Iter 6 : PSNR = 23.525013, SSIM = 0.569975, nsig = 10.96
+peppers256.tif:
+PSNR of the noisy image = 8.103650 
+Preprocessing, Iter 1 : PSNR = 15.283486, SSIM = 0.157755, nsig = 100.00
+Preprocessing, Iter 2 : PSNR = 16.930649, SSIM = 0.206786, nsig = 20.86
+Preprocessing, Iter 3 : PSNR = 19.228377, SSIM = 0.307940, nsig = 19.17
+Preprocessing, Iter 4 : PSNR = 21.037135, SSIM = 0.468948, nsig = 16.60
+Preprocessing, Iter 5 : PSNR = 22.426963, SSIM = 0.630111, nsig = 13.19
+Preprocessing, Iter 6 : PSNR = 22.434247, SSIM = 0.656369, nsig = 11.62
+straw.tif:
+PSNR of the noisy image = 8.103650 
+Preprocessing, Iter 1 : PSNR = 14.862995, SSIM = 0.287906, nsig = 100.00
+Preprocessing, Iter 2 : PSNR = 16.003510, SSIM = 0.328299, nsig = 20.87
+Preprocessing, Iter 3 : PSNR = 17.506002, SSIM = 0.378741, nsig = 19.28
+Preprocessing, Iter 4 : PSNR = 18.482470, SSIM = 0.399059, nsig = 17.13
+Preprocessing, Iter 5 : PSNR = 19.236191, SSIM = 0.401975, nsig = 13.86
+Preprocessing, Iter 6 : PSNR = 19.117168, SSIM = 0.366719, nsig = 11.84
+>> 

@@ -1,0 +1,38 @@
+GHP_Data\2.tif: PSNR = 26.90  SSIM = 0.770969 FSIM = 0.960375
+GHP_Data\2.tif: PSNR = 26.09  SSIM = 0.733614 FSIM = 0.950365
+
+
+
+2.tif: 25
+PSNR of the noisy image = 20.176577 
+Preprocessing, Iter 1 : PSNR = 25.811412, SSIM = 0.651656, nsig = 25.00
+Preprocessing, Iter 2 : PSNR = 26.200011, SSIM = 0.684278, nsig = 4.26
+Preprocessing, Iter 3 : PSNR = 26.496614, SSIM = 0.713277, nsig = 4.05
+Preprocessing, Iter 4 : PSNR = 26.656267, SSIM = 0.740298, nsig = 3.92
+Preprocessing, Iter 5 : PSNR = 26.826146, SSIM = 0.762908, nsig = 3.62
+Preprocessing, Iter 6 : PSNR = 26.901395, SSIM = 0.771131, nsig = 3.29
+2.tif: 30
+PSNR of the noisy image = 18.592952 
+Preprocessing, Iter 1 : PSNR = 24.594509, SSIM = 0.582783, nsig = 30.00
+Preprocessing, Iter 2 : PSNR = 25.215200, SSIM = 0.628738, nsig = 5.09
+Preprocessing, Iter 3 : PSNR = 25.596621, SSIM = 0.665055, nsig = 4.81
+Preprocessing, Iter 4 : PSNR = 25.810717, SSIM = 0.699775, nsig = 4.58
+Preprocessing, Iter 5 : PSNR = 26.006979, SSIM = 0.725141, nsig = 4.17
+Preprocessing, Iter 6 : PSNR = 26.092208, SSIM = 0.733693, nsig = 3.75
+2.tif: 35
+PSNR of the noisy image = 17.254016 
+Preprocessing, Iter 1 : PSNR = 24.178495, SSIM = 0.555599, nsig = 35.00
+Preprocessing, Iter 2 : PSNR = 24.904370, SSIM = 0.618940, nsig = 6.33
+Preprocessing, Iter 3 : PSNR = 25.323024, SSIM = 0.671600, nsig = 5.70
+Preprocessing, Iter 4 : PSNR = 25.397939, SSIM = 0.694035, nsig = 5.19
+Preprocessing, Iter 5 : PSNR = 25.458379, SSIM = 0.697788, nsig = 4.46
+Preprocessing, Iter 6 : PSNR = 25.469038, SSIM = 0.696146, nsig = 3.94
+
+2.tif: 40
+PSNR of the noisy image = 16.094177 
+Preprocessing, Iter 1 : PSNR = 23.301634, SSIM = 0.501944, nsig = 40.00
+Preprocessing, Iter 2 : PSNR = 24.309696, SSIM = 0.581427, nsig = 7.16
+Preprocessing, Iter 3 : PSNR = 24.794444, SSIM = 0.640560, nsig = 6.38
+Preprocessing, Iter 4 : PSNR = 24.858054, SSIM = 0.663815, nsig = 5.66
+Preprocessing, Iter 5 : PSNR = 24.921237, SSIM = 0.666826, nsig = 4.82
+Preprocessing, Iter 6 : PSNR = 24.936435, SSIM = 0.665188, nsig = 4.24

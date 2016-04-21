@@ -1,0 +1,1911 @@
+i=1,j=1
+1.tif:
+Image: External image (725x803), sigma: 5.0
+BASIC ESTIMATE, PSNR: 38.36 dB
+FINAL ESTIMATE (total time: 19.2 sec), PSNR: 38.54 dB, SSIM: 1.000
+PSNR of the noisy image = 34.157198 
+
+Iteration 1 : nSig = 5.00, PSNR = 37.51, SSIM = 0.9455
+Iteration 2 : nSig = 2.92, PSNR = 38.25, SSIM = 0.9619
+Iteration 3 : nSig = 2.75, PSNR = 38.56, SSIM = 0.9672
+Iteration 4 : nSig = 2.62, PSNR = 38.65, SSIM = 0.9682
+Iteration 5 : nSig = 2.55, PSNR = 38.69, SSIM = 0.9683
+Iteration 6 : nSig = 2.51, PSNR = 38.71, SSIM = 0.9683
+Iteration 7 : nSig = 2.47, PSNR = 38.71, SSIM = 0.9682
+Iteration 8 : nSig = 2.46, PSNR = 38.70, SSIM = 0.9680
+Iteration 9 : nSig = 2.45, PSNR = 38.70, SSIM = 0.9679
+Iteration 10 : nSig = 2.44, PSNR = 38.69, SSIM = 0.9678
+Total elapsed time = 5.614567 min
+
+BM3D=38.538361,SAIST=38.692853
+i=1,j=2
+1.tif:
+Image: External image (725x803), sigma: 10.0
+BASIC ESTIMATE, PSNR: 33.99 dB
+FINAL ESTIMATE (total time: 19.5 sec), PSNR: 34.32 dB, SSIM: 1.000
+PSNR of the noisy image = 28.131669 
+
+Iteration 1 : nSig = 10.00, PSNR = 32.63, SSIM = 0.8528
+Iteration 2 : nSig = 5.73, PSNR = 33.81, SSIM = 0.9107
+Iteration 3 : nSig = 5.31, PSNR = 34.28, SSIM = 0.9293
+Iteration 4 : nSig = 5.00, PSNR = 34.41, SSIM = 0.9320
+Iteration 5 : nSig = 4.85, PSNR = 34.44, SSIM = 0.9319
+Iteration 6 : nSig = 4.78, PSNR = 34.48, SSIM = 0.9323
+Iteration 7 : nSig = 4.70, PSNR = 34.48, SSIM = 0.9319
+Iteration 8 : nSig = 4.67, PSNR = 34.48, SSIM = 0.9316
+Iteration 9 : nSig = 4.66, PSNR = 34.48, SSIM = 0.9314
+Iteration 10 : nSig = 4.65, PSNR = 34.47, SSIM = 0.9313
+Total elapsed time = 5.621817 min
+
+BM3D=34.318564,SAIST=34.473959
+i=1,j=3
+1.tif:
+Image: External image (725x803), sigma: 15.0
+BASIC ESTIMATE, PSNR: 31.61 dB
+FINAL ESTIMATE (total time: 20.0 sec), PSNR: 32.01 dB, SSIM: 1.000
+PSNR of the noisy image = 24.609893 
+
+Iteration 1 : nSig = 15.00, PSNR = 29.80, SSIM = 0.7526
+Iteration 2 : nSig = 8.50, PSNR = 31.33, SSIM = 0.8560
+Iteration 3 : nSig = 7.79, PSNR = 31.92, SSIM = 0.8922
+Iteration 4 : nSig = 7.29, PSNR = 32.06, SSIM = 0.8968
+Iteration 5 : nSig = 7.06, PSNR = 32.10, SSIM = 0.8965
+Iteration 6 : nSig = 6.96, PSNR = 32.15, SSIM = 0.8980
+Iteration 7 : nSig = 6.84, PSNR = 32.16, SSIM = 0.8978
+Iteration 8 : nSig = 6.80, PSNR = 32.16, SSIM = 0.8977
+Iteration 9 : nSig = 6.78, PSNR = 32.16, SSIM = 0.8976
+Iteration 10 : nSig = 6.77, PSNR = 32.16, SSIM = 0.8976
+Total elapsed time = 7.124500 min
+
+BM3D=32.011399,SAIST=32.163545
+i=1,j=4
+1.tif:
+Image: External image (725x803), sigma: 20.0
+BASIC ESTIMATE, PSNR: 30.05 dB
+FINAL ESTIMATE (total time: 20.4 sec), PSNR: 30.48 dB, SSIM: 1.000
+PSNR of the noisy image = 22.108018 
+
+Iteration 1 : nSig = 20.00, PSNR = 27.55, SSIM = 0.6452
+Iteration 2 : nSig = 11.72, PSNR = 29.53, SSIM = 0.7965
+Iteration 3 : nSig = 10.64, PSNR = 30.36, SSIM = 0.8617
+Iteration 4 : nSig = 9.80, PSNR = 30.54, SSIM = 0.8686
+Iteration 5 : nSig = 9.44, PSNR = 30.58, SSIM = 0.8680
+Iteration 6 : nSig = 9.29, PSNR = 30.62, SSIM = 0.8688
+Iteration 7 : nSig = 9.13, PSNR = 30.63, SSIM = 0.8684
+Iteration 8 : nSig = 9.08, PSNR = 30.63, SSIM = 0.8682
+Iteration 9 : nSig = 9.05, PSNR = 30.62, SSIM = 0.8680
+Iteration 10 : nSig = 9.04, PSNR = 30.62, SSIM = 0.8679
+Iteration 11 : nSig = 9.03, PSNR = 30.62, SSIM = 0.8679
+Total elapsed time = 8.320017 min
+
+BM3D=30.478798,SAIST=30.622580
+i=1,j=5
+1.tif:
+Image: External image (725x803), sigma: 25.0
+BASIC ESTIMATE, PSNR: 28.91 dB
+FINAL ESTIMATE (total time: 20.6 sec), PSNR: 29.37 dB, SSIM: 1.000
+PSNR of the noisy image = 20.177144 
+
+Iteration 1 : nSig = 25.00, PSNR = 25.98, SSIM = 0.5637
+Iteration 2 : nSig = 14.59, PSNR = 28.26, SSIM = 0.7419
+Iteration 3 : nSig = 13.16, PSNR = 29.23, SSIM = 0.8316
+Iteration 4 : nSig = 12.05, PSNR = 29.42, SSIM = 0.8414
+Iteration 5 : nSig = 11.60, PSNR = 29.45, SSIM = 0.8407
+Iteration 6 : nSig = 11.40, PSNR = 29.50, SSIM = 0.8422
+Iteration 7 : nSig = 11.21, PSNR = 29.51, SSIM = 0.8418
+Iteration 8 : nSig = 11.15, PSNR = 29.51, SSIM = 0.8415
+Iteration 9 : nSig = 11.12, PSNR = 29.51, SSIM = 0.8413
+Iteration 10 : nSig = 11.10, PSNR = 29.51, SSIM = 0.8412
+Iteration 11 : nSig = 11.09, PSNR = 29.51, SSIM = 0.8411
+Total elapsed time = 7.281383 min
+
+BM3D=29.371077,SAIST=29.508567
+i=1,j=6
+1.tif:
+Image: External image (725x803), sigma: 30.0
+BASIC ESTIMATE, PSNR: 28.02 dB
+FINAL ESTIMATE (total time: 20.8 sec), PSNR: 28.51 dB, SSIM: 1.000
+PSNR of the noisy image = 18.584470 
+
+Iteration 1 : nSig = 30.00, PSNR = 24.66, SSIM = 0.4936
+Iteration 2 : nSig = 17.45, PSNR = 27.20, SSIM = 0.6877
+Iteration 3 : nSig = 15.67, PSNR = 28.31, SSIM = 0.8020
+Iteration 4 : nSig = 14.28, PSNR = 28.52, SSIM = 0.8150
+Iteration 5 : nSig = 13.74, PSNR = 28.54, SSIM = 0.8143
+Iteration 6 : nSig = 13.51, PSNR = 28.60, SSIM = 0.8167
+Iteration 7 : nSig = 13.28, PSNR = 28.61, SSIM = 0.8165
+Iteration 8 : nSig = 13.21, PSNR = 28.61, SSIM = 0.8162
+Iteration 9 : nSig = 13.18, PSNR = 28.61, SSIM = 0.8161
+Iteration 10 : nSig = 13.15, PSNR = 28.61, SSIM = 0.8159
+Iteration 11 : nSig = 13.14, PSNR = 28.61, SSIM = 0.8158
+Total elapsed time = 7.177750 min
+
+BM3D=28.510052,SAIST=28.608639
+i=1,j=7
+1.tif:
+Image: External image (725x803), sigma: 40.0
+BASIC ESTIMATE, PSNR: 26.37 dB
+FINAL ESTIMATE (total time: 20.0 sec), PSNR: 27.18 dB, SSIM: 1.000
+PSNR of the noisy image = 16.089474 
+
+Iteration 1 : nSig = 40.00, PSNR = 22.08, SSIM = 0.3664
+Iteration 2 : nSig = 24.24, PSNR = 25.16, SSIM = 0.5584
+Iteration 3 : nSig = 21.73, PSNR = 26.85, SSIM = 0.7451
+Iteration 4 : nSig = 19.50, PSNR = 27.19, SSIM = 0.7745
+Iteration 5 : nSig = 18.57, PSNR = 27.22, SSIM = 0.7751
+Iteration 6 : nSig = 18.21, PSNR = 27.27, SSIM = 0.7771
+Iteration 7 : nSig = 17.91, PSNR = 27.28, SSIM = 0.7766
+Iteration 8 : nSig = 17.82, PSNR = 27.28, SSIM = 0.7763
+Iteration 9 : nSig = 17.77, PSNR = 27.28, SSIM = 0.7761
+Iteration 10 : nSig = 17.74, PSNR = 27.28, SSIM = 0.7760
+Iteration 11 : nSig = 17.72, PSNR = 27.28, SSIM = 0.7759
+Iteration 12 : nSig = 17.71, PSNR = 27.28, SSIM = 0.7759
+Total elapsed time = 11.678767 min
+
+BM3D=27.177273,SAIST=27.280167
+i=1,j=8
+1.tif:
+Image: External image (725x803), sigma: 50.0
+BASIC ESTIMATE, PSNR: 25.70 dB
+FINAL ESTIMATE (total time: 28.3 sec), PSNR: 26.27 dB, SSIM: 1.000
+PSNR of the noisy image = 14.143435 
+
+Iteration 1 : nSig = 50.00, PSNR = 20.38, SSIM = 0.2941
+Iteration 2 : nSig = 30.22, PSNR = 23.84, SSIM = 0.4725
+Iteration 3 : nSig = 27.00, PSNR = 25.90, SSIM = 0.6987
+Iteration 4 : nSig = 24.06, PSNR = 26.28, SSIM = 0.7413
+Iteration 5 : nSig = 22.86, PSNR = 26.29, SSIM = 0.7419
+Iteration 6 : nSig = 22.44, PSNR = 26.34, SSIM = 0.7441
+Iteration 7 : nSig = 22.09, PSNR = 26.33, SSIM = 0.7435
+Iteration 8 : nSig = 22.00, PSNR = 26.33, SSIM = 0.7430
+Iteration 9 : nSig = 21.96, PSNR = 26.33, SSIM = 0.7426
+Iteration 10 : nSig = 21.94, PSNR = 26.32, SSIM = 0.7424
+Iteration 11 : nSig = 21.92, PSNR = 26.32, SSIM = 0.7422
+Iteration 12 : nSig = 21.91, PSNR = 26.32, SSIM = 0.7420
+Total elapsed time = 11.683450 min
+
+BM3D=26.266640,SAIST=26.318390
+i=1,j=9
+1.tif:
+Image: External image (725x803), sigma: 100.0
+BASIC ESTIMATE, PSNR: 22.85 dB
+FINAL ESTIMATE (total time: 29.5 sec), PSNR: 23.81 dB, SSIM: 1.000
+PSNR of the noisy image = 8.139137 
+
+Iteration 1 : nSig = 100.00, PSNR = 14.45, SSIM = 0.1176
+Iteration 2 : nSig = 58.17, PSNR = 18.00, SSIM = 0.1877
+Iteration 3 : nSig = 53.11, PSNR = 21.53, SSIM = 0.3541
+Iteration 4 : nSig = 47.74, PSNR = 23.29, SSIM = 0.5749
+Iteration 5 : nSig = 43.99, PSNR = 23.61, SSIM = 0.6306
+Iteration 6 : nSig = 42.61, PSNR = 23.73, SSIM = 0.6432
+Iteration 7 : nSig = 41.97, PSNR = 23.75, SSIM = 0.6443
+Iteration 8 : nSig = 41.80, PSNR = 23.75, SSIM = 0.6445
+Iteration 9 : nSig = 41.72, PSNR = 23.75, SSIM = 0.6445
+Iteration 10 : nSig = 41.69, PSNR = 23.75, SSIM = 0.6445
+Iteration 11 : nSig = 41.67, PSNR = 23.75, SSIM = 0.6445
+Iteration 12 : nSig = 41.66, PSNR = 23.74, SSIM = 0.6443
+Iteration 13 : nSig = 41.65, PSNR = 23.74, SSIM = 0.6443
+Iteration 14 : nSig = 41.65, PSNR = 23.74, SSIM = 0.6445
+Total elapsed time = 20.522900 min
+
+BM3D=23.809055,SAIST=23.740033
+i=2,j=1
+10.tif:
+Image: External image (748x500), sigma: 5.0
+BASIC ESTIMATE, PSNR: 37.67 dB
+FINAL ESTIMATE (total time: 11.4 sec), PSNR: 38.01 dB, SSIM: 1.000
+PSNR of the noisy image = 34.153347 
+
+Iteration 1 : nSig = 5.00, PSNR = 37.14, SSIM = 0.9419
+Iteration 2 : nSig = 2.94, PSNR = 37.74, SSIM = 0.9516
+Iteration 3 : nSig = 2.80, PSNR = 38.03, SSIM = 0.9554
+Iteration 4 : nSig = 2.68, PSNR = 38.14, SSIM = 0.9564
+Iteration 5 : nSig = 2.60, PSNR = 38.18, SSIM = 0.9564
+Iteration 6 : nSig = 2.55, PSNR = 38.21, SSIM = 0.9564
+Iteration 7 : nSig = 2.51, PSNR = 38.21, SSIM = 0.9563
+Iteration 8 : nSig = 2.48, PSNR = 38.21, SSIM = 0.9561
+Iteration 9 : nSig = 2.47, PSNR = 38.21, SSIM = 0.9560
+Iteration 10 : nSig = 2.46, PSNR = 38.20, SSIM = 0.9559
+Total elapsed time = 3.550517 min
+
+BM3D=38.008203,SAIST=38.201620
+i=2,j=2
+10.tif:
+Image: External image (748x500), sigma: 10.0
+BASIC ESTIMATE, PSNR: 33.84 dB
+FINAL ESTIMATE (total time: 12.1 sec), PSNR: 34.18 dB, SSIM: 1.000
+PSNR of the noisy image = 28.141035 
+
+Iteration 1 : nSig = 10.00, PSNR = 32.53, SSIM = 0.8487
+Iteration 2 : nSig = 5.73, PSNR = 33.63, SSIM = 0.8866
+Iteration 3 : nSig = 5.34, PSNR = 34.13, SSIM = 0.9001
+Iteration 4 : nSig = 5.02, PSNR = 34.28, SSIM = 0.9022
+Iteration 5 : nSig = 4.82, PSNR = 34.32, SSIM = 0.9015
+Iteration 6 : nSig = 4.71, PSNR = 34.35, SSIM = 0.9012
+Iteration 7 : nSig = 4.61, PSNR = 34.35, SSIM = 0.9004
+Iteration 8 : nSig = 4.56, PSNR = 34.34, SSIM = 0.8999
+Iteration 9 : nSig = 4.54, PSNR = 34.33, SSIM = 0.8995
+Iteration 10 : nSig = 4.53, PSNR = 34.32, SSIM = 0.8992
+Total elapsed time = 3.543200 min
+
+BM3D=34.183653,SAIST=34.323989
+i=2,j=3
+10.tif:
+Image: External image (748x500), sigma: 15.0
+BASIC ESTIMATE, PSNR: 31.86 dB
+FINAL ESTIMATE (total time: 12.3 sec), PSNR: 32.21 dB, SSIM: 1.000
+PSNR of the noisy image = 24.602358 
+
+Iteration 1 : nSig = 15.00, PSNR = 29.82, SSIM = 0.7490
+Iteration 2 : nSig = 8.49, PSNR = 31.36, SSIM = 0.8220
+Iteration 3 : nSig = 7.80, PSNR = 32.03, SSIM = 0.8488
+Iteration 4 : nSig = 7.26, PSNR = 32.21, SSIM = 0.8525
+Iteration 5 : nSig = 6.95, PSNR = 32.25, SSIM = 0.8512
+Iteration 6 : nSig = 6.80, PSNR = 32.29, SSIM = 0.8510
+Iteration 7 : nSig = 6.62, PSNR = 32.29, SSIM = 0.8499
+Iteration 8 : nSig = 6.56, PSNR = 32.28, SSIM = 0.8493
+Iteration 9 : nSig = 6.54, PSNR = 32.27, SSIM = 0.8488
+Iteration 10 : nSig = 6.53, PSNR = 32.26, SSIM = 0.8486
+Total elapsed time = 3.530367 min
+
+BM3D=32.205342,SAIST=32.265370
+i=2,j=4
+10.tif:
+Image: External image (748x500), sigma: 20.0
+BASIC ESTIMATE, PSNR: 30.59 dB
+FINAL ESTIMATE (total time: 12.8 sec), PSNR: 30.96 dB, SSIM: 1.000
+PSNR of the noisy image = 22.110472 
+
+Iteration 1 : nSig = 20.00, PSNR = 27.70, SSIM = 0.6459
+Iteration 2 : nSig = 11.71, PSNR = 29.81, SSIM = 0.7617
+Iteration 3 : nSig = 10.63, PSNR = 30.82, SSIM = 0.8127
+Iteration 4 : nSig = 9.73, PSNR = 31.05, SSIM = 0.8185
+Iteration 5 : nSig = 9.25, PSNR = 31.08, SSIM = 0.8160
+Iteration 6 : nSig = 9.03, PSNR = 31.11, SSIM = 0.8149
+Iteration 7 : nSig = 8.81, PSNR = 31.10, SSIM = 0.8137
+Iteration 8 : nSig = 8.76, PSNR = 31.09, SSIM = 0.8130
+Iteration 9 : nSig = 8.73, PSNR = 31.08, SSIM = 0.8126
+Iteration 10 : nSig = 8.72, PSNR = 31.08, SSIM = 0.8123
+Iteration 11 : nSig = 8.71, PSNR = 31.07, SSIM = 0.8121
+Total elapsed time = 4.515533 min
+
+BM3D=30.963871,SAIST=31.072225
+i=2,j=5
+10.tif:
+Image: External image (748x500), sigma: 25.0
+BASIC ESTIMATE, PSNR: 29.65 dB
+FINAL ESTIMATE (total time: 12.8 sec), PSNR: 30.05 dB, SSIM: 1.000
+PSNR of the noisy image = 20.179475 
+
+Iteration 1 : nSig = 25.00, PSNR = 26.17, SSIM = 0.5629
+Iteration 2 : nSig = 14.57, PSNR = 28.65, SSIM = 0.7070
+Iteration 3 : nSig = 13.13, PSNR = 29.84, SSIM = 0.7756
+Iteration 4 : nSig = 11.95, PSNR = 30.09, SSIM = 0.7832
+Iteration 5 : nSig = 11.37, PSNR = 30.12, SSIM = 0.7808
+Iteration 6 : nSig = 11.14, PSNR = 30.15, SSIM = 0.7802
+Iteration 7 : nSig = 10.87, PSNR = 30.14, SSIM = 0.7790
+Iteration 8 : nSig = 10.81, PSNR = 30.13, SSIM = 0.7783
+Iteration 9 : nSig = 10.78, PSNR = 30.12, SSIM = 0.7778
+Iteration 10 : nSig = 10.77, PSNR = 30.12, SSIM = 0.7775
+Iteration 11 : nSig = 10.76, PSNR = 30.12, SSIM = 0.7773
+Total elapsed time = 4.523783 min
+
+BM3D=30.049873,SAIST=30.115507
+i=2,j=6
+10.tif:
+Image: External image (748x500), sigma: 30.0
+BASIC ESTIMATE, PSNR: 28.93 dB
+FINAL ESTIMATE (total time: 13.0 sec), PSNR: 29.41 dB, SSIM: 1.000
+PSNR of the noisy image = 18.616078 
+
+Iteration 1 : nSig = 30.00, PSNR = 24.94, SSIM = 0.4947
+Iteration 2 : nSig = 17.42, PSNR = 27.77, SSIM = 0.6598
+Iteration 3 : nSig = 15.62, PSNR = 29.14, SSIM = 0.7466
+Iteration 4 : nSig = 14.15, PSNR = 29.40, SSIM = 0.7565
+Iteration 5 : nSig = 13.50, PSNR = 29.41, SSIM = 0.7538
+Iteration 6 : nSig = 13.25, PSNR = 29.44, SSIM = 0.7532
+Iteration 7 : nSig = 12.95, PSNR = 29.43, SSIM = 0.7519
+Iteration 8 : nSig = 12.88, PSNR = 29.41, SSIM = 0.7512
+Iteration 9 : nSig = 12.86, PSNR = 29.40, SSIM = 0.7507
+Iteration 10 : nSig = 12.85, PSNR = 29.40, SSIM = 0.7504
+Iteration 11 : nSig = 12.84, PSNR = 29.39, SSIM = 0.7502
+Total elapsed time = 4.508700 min
+
+BM3D=29.405908,SAIST=29.395518
+i=2,j=7
+10.tif:
+Image: External image (748x500), sigma: 40.0
+BASIC ESTIMATE, PSNR: 27.50 dB
+FINAL ESTIMATE (total time: 12.8 sec), PSNR: 28.20 dB, SSIM: 1.000
+PSNR of the noisy image = 16.075001 
+
+Iteration 1 : nSig = 40.00, PSNR = 22.23, SSIM = 0.3536
+Iteration 2 : nSig = 24.21, PSNR = 25.62, SSIM = 0.5331
+Iteration 3 : nSig = 21.70, PSNR = 27.77, SSIM = 0.6840
+Iteration 4 : nSig = 19.39, PSNR = 28.27, SSIM = 0.7138
+Iteration 5 : nSig = 18.28, PSNR = 28.33, SSIM = 0.7133
+Iteration 6 : nSig = 17.90, PSNR = 28.36, SSIM = 0.7131
+Iteration 7 : nSig = 17.52, PSNR = 28.34, SSIM = 0.7116
+Iteration 8 : nSig = 17.45, PSNR = 28.32, SSIM = 0.7106
+Iteration 9 : nSig = 17.42, PSNR = 28.31, SSIM = 0.7099
+Iteration 10 : nSig = 17.40, PSNR = 28.30, SSIM = 0.7094
+Iteration 11 : nSig = 17.39, PSNR = 28.29, SSIM = 0.7091
+Iteration 12 : nSig = 17.38, PSNR = 28.27, SSIM = 0.7083
+Total elapsed time = 7.302350 min
+
+BM3D=28.204640,SAIST=28.270786
+i=2,j=8
+10.tif:
+Image: External image (748x500), sigma: 50.0
+BASIC ESTIMATE, PSNR: 26.82 dB
+FINAL ESTIMATE (total time: 17.6 sec), PSNR: 27.54 dB, SSIM: 1.000
+PSNR of the noisy image = 14.150845 
+
+Iteration 1 : nSig = 50.00, PSNR = 20.56, SSIM = 0.2763
+Iteration 2 : nSig = 30.20, PSNR = 24.37, SSIM = 0.4582
+Iteration 3 : nSig = 26.94, PSNR = 26.92, SSIM = 0.6438
+Iteration 4 : nSig = 23.98, PSNR = 27.49, SSIM = 0.6824
+Iteration 5 : nSig = 22.65, PSNR = 27.53, SSIM = 0.6819
+Iteration 6 : nSig = 22.24, PSNR = 27.56, SSIM = 0.6819
+Iteration 7 : nSig = 21.82, PSNR = 27.54, SSIM = 0.6802
+Iteration 8 : nSig = 21.75, PSNR = 27.52, SSIM = 0.6792
+Iteration 9 : nSig = 21.72, PSNR = 27.51, SSIM = 0.6786
+Iteration 10 : nSig = 21.71, PSNR = 27.50, SSIM = 0.6781
+Iteration 11 : nSig = 21.70, PSNR = 27.49, SSIM = 0.6778
+Iteration 12 : nSig = 21.69, PSNR = 27.47, SSIM = 0.6769
+Total elapsed time = 7.320617 min
+
+BM3D=27.543510,SAIST=27.468840
+i=2,j=9
+10.tif:
+Image: External image (748x500), sigma: 100.0
+BASIC ESTIMATE, PSNR: 23.86 dB
+FINAL ESTIMATE (total time: 18.5 sec), PSNR: 25.15 dB, SSIM: 1.000
+PSNR of the noisy image = 8.129933 
+
+Iteration 1 : nSig = 100.00, PSNR = 14.52, SSIM = 0.0949
+Iteration 2 : nSig = 58.14, PSNR = 18.24, SSIM = 0.1717
+Iteration 3 : nSig = 53.04, PSNR = 22.22, SSIM = 0.3394
+Iteration 4 : nSig = 47.65, PSNR = 24.55, SSIM = 0.5285
+Iteration 5 : nSig = 43.86, PSNR = 25.06, SSIM = 0.5820
+Iteration 6 : nSig = 42.48, PSNR = 25.19, SSIM = 0.5965
+Iteration 7 : nSig = 41.79, PSNR = 25.17, SSIM = 0.5972
+Iteration 8 : nSig = 41.64, PSNR = 25.14, SSIM = 0.5969
+Iteration 9 : nSig = 41.58, PSNR = 25.11, SSIM = 0.5967
+Iteration 10 : nSig = 41.55, PSNR = 25.09, SSIM = 0.5965
+Iteration 11 : nSig = 41.53, PSNR = 25.07, SSIM = 0.5963
+Iteration 12 : nSig = 41.52, PSNR = 25.03, SSIM = 0.5953
+Iteration 13 : nSig = 41.51, PSNR = 25.01, SSIM = 0.5948
+Iteration 14 : nSig = 41.50, PSNR = 24.99, SSIM = 0.5945
+Total elapsed time = 13.431967 min
+
+BM3D=25.153853,SAIST=25.001214
+i=3,j=1
+2.tif:
+Image: External image (770x878), sigma: 5.0
+BASIC ESTIMATE, PSNR: 36.15 dB
+FINAL ESTIMATE (total time: 20.2 sec), PSNR: 36.26 dB, SSIM: 1.000
+PSNR of the noisy image = 34.156806 
+
+Iteration 1 : nSig = 5.00, PSNR = 35.90, SSIM = 0.9558
+Iteration 2 : nSig = 3.00, PSNR = 36.17, SSIM = 0.9631
+Iteration 3 : nSig = 2.91, PSNR = 36.28, SSIM = 0.9651
+Iteration 4 : nSig = 2.83, PSNR = 36.31, SSIM = 0.9653
+Iteration 5 : nSig = 2.78, PSNR = 36.31, SSIM = 0.9650
+Iteration 6 : nSig = 2.75, PSNR = 36.31, SSIM = 0.9648
+Iteration 7 : nSig = 2.72, PSNR = 36.31, SSIM = 0.9645
+Iteration 8 : nSig = 2.70, PSNR = 36.30, SSIM = 0.9642
+Iteration 9 : nSig = 2.69, PSNR = 36.29, SSIM = 0.9641
+Iteration 10 : nSig = 2.68, PSNR = 36.28, SSIM = 0.9639
+Total elapsed time = 6.417067 min
+
+BM3D=36.260046,SAIST=36.284181
+i=3,j=2
+2.tif:
+Image: External image (770x878), sigma: 10.0
+BASIC ESTIMATE, PSNR: 31.40 dB
+FINAL ESTIMATE (total time: 21.1 sec), PSNR: 31.69 dB, SSIM: 1.000
+PSNR of the noisy image = 28.128628 
+
+Iteration 1 : nSig = 10.00, PSNR = 30.98, SSIM = 0.8775
+Iteration 2 : nSig = 5.86, PSNR = 31.50, SSIM = 0.9053
+Iteration 3 : nSig = 5.57, PSNR = 31.70, SSIM = 0.9136
+Iteration 4 : nSig = 5.34, PSNR = 31.76, SSIM = 0.9142
+Iteration 5 : nSig = 5.20, PSNR = 31.77, SSIM = 0.9135
+Iteration 6 : nSig = 5.11, PSNR = 31.79, SSIM = 0.9130
+Iteration 7 : nSig = 5.04, PSNR = 31.78, SSIM = 0.9121
+Iteration 8 : nSig = 5.00, PSNR = 31.77, SSIM = 0.9115
+Iteration 9 : nSig = 4.97, PSNR = 31.76, SSIM = 0.9110
+Iteration 10 : nSig = 4.95, PSNR = 31.75, SSIM = 0.9106
+Total elapsed time = 6.389500 min
+
+BM3D=31.687185,SAIST=31.749526
+i=3,j=3
+2.tif:
+Image: External image (770x878), sigma: 15.0
+BASIC ESTIMATE, PSNR: 29.02 dB
+FINAL ESTIMATE (total time: 22.3 sec), PSNR: 29.33 dB, SSIM: 1.000
+PSNR of the noisy image = 24.607903 
+
+Iteration 1 : nSig = 15.00, PSNR = 28.31, SSIM = 0.7920
+Iteration 2 : nSig = 8.65, PSNR = 29.08, SSIM = 0.8442
+Iteration 3 : nSig = 8.11, PSNR = 29.38, SSIM = 0.8617
+Iteration 4 : nSig = 7.68, PSNR = 29.45, SSIM = 0.8627
+Iteration 5 : nSig = 7.42, PSNR = 29.46, SSIM = 0.8609
+Iteration 6 : nSig = 7.28, PSNR = 29.48, SSIM = 0.8599
+Iteration 7 : nSig = 7.14, PSNR = 29.47, SSIM = 0.8585
+Iteration 8 : nSig = 7.08, PSNR = 29.45, SSIM = 0.8574
+Iteration 9 : nSig = 7.04, PSNR = 29.44, SSIM = 0.8567
+Iteration 10 : nSig = 7.02, PSNR = 29.43, SSIM = 0.8561
+Total elapsed time = 6.372983 min
+
+BM3D=29.328935,SAIST=29.434560
+i=3,j=4
+2.tif:
+Image: External image (770x878), sigma: 20.0
+BASIC ESTIMATE, PSNR: 27.52 dB
+FINAL ESTIMATE (total time: 23.1 sec), PSNR: 27.80 dB, SSIM: 1.000
+PSNR of the noisy image = 22.111075 
+
+Iteration 1 : nSig = 20.00, PSNR = 26.28, SSIM = 0.7029
+Iteration 2 : nSig = 11.89, PSNR = 27.41, SSIM = 0.7833
+Iteration 3 : nSig = 11.02, PSNR = 27.88, SSIM = 0.8159
+Iteration 4 : nSig = 10.27, PSNR = 27.99, SSIM = 0.8178
+Iteration 5 : nSig = 9.84, PSNR = 28.00, SSIM = 0.8148
+Iteration 6 : nSig = 9.60, PSNR = 28.00, SSIM = 0.8128
+Iteration 7 : nSig = 9.39, PSNR = 27.99, SSIM = 0.8108
+Iteration 8 : nSig = 9.30, PSNR = 27.97, SSIM = 0.8096
+Iteration 9 : nSig = 9.25, PSNR = 27.96, SSIM = 0.8087
+Iteration 10 : nSig = 9.22, PSNR = 27.95, SSIM = 0.8082
+Iteration 11 : nSig = 9.20, PSNR = 27.94, SSIM = 0.8078
+Total elapsed time = 8.097450 min
+
+BM3D=27.803920,SAIST=27.944112
+i=3,j=5
+2.tif:
+Image: External image (770x878), sigma: 25.0
+BASIC ESTIMATE, PSNR: 26.50 dB
+FINAL ESTIMATE (total time: 23.9 sec), PSNR: 26.76 dB, SSIM: 1.000
+PSNR of the noisy image = 20.172718 
+
+Iteration 1 : nSig = 25.00, PSNR = 24.86, SSIM = 0.6292
+Iteration 2 : nSig = 14.75, PSNR = 26.26, SSIM = 0.7280
+Iteration 3 : nSig = 13.54, PSNR = 26.82, SSIM = 0.7723
+Iteration 4 : nSig = 12.52, PSNR = 26.94, SSIM = 0.7739
+Iteration 5 : nSig = 11.95, PSNR = 26.94, SSIM = 0.7695
+Iteration 6 : nSig = 11.64, PSNR = 26.95, SSIM = 0.7668
+Iteration 7 : nSig = 11.37, PSNR = 26.93, SSIM = 0.7645
+Iteration 8 : nSig = 11.27, PSNR = 26.91, SSIM = 0.7631
+Iteration 9 : nSig = 11.21, PSNR = 26.90, SSIM = 0.7622
+Iteration 10 : nSig = 11.18, PSNR = 26.89, SSIM = 0.7616
+Iteration 11 : nSig = 11.16, PSNR = 26.89, SSIM = 0.7612
+Total elapsed time = 8.086733 min
+
+BM3D=26.763577,SAIST=26.888390
+i=3,j=6
+2.tif:
+Image: External image (770x878), sigma: 30.0
+BASIC ESTIMATE, PSNR: 25.72 dB
+FINAL ESTIMATE (total time: 24.3 sec), PSNR: 25.98 dB, SSIM: 1.000
+PSNR of the noisy image = 18.591021 
+
+Iteration 1 : nSig = 30.00, PSNR = 23.69, SSIM = 0.5627
+Iteration 2 : nSig = 17.61, PSNR = 25.34, SSIM = 0.6748
+Iteration 3 : nSig = 16.04, PSNR = 26.02, SSIM = 0.7316
+Iteration 4 : nSig = 14.73, PSNR = 26.14, SSIM = 0.7334
+Iteration 5 : nSig = 14.02, PSNR = 26.12, SSIM = 0.7276
+Iteration 6 : nSig = 13.65, PSNR = 26.13, SSIM = 0.7243
+Iteration 7 : nSig = 13.33, PSNR = 26.11, SSIM = 0.7216
+Iteration 8 : nSig = 13.21, PSNR = 26.09, SSIM = 0.7201
+Iteration 9 : nSig = 13.16, PSNR = 26.08, SSIM = 0.7191
+Iteration 10 : nSig = 13.12, PSNR = 26.07, SSIM = 0.7185
+Iteration 11 : nSig = 13.10, PSNR = 26.07, SSIM = 0.7181
+Total elapsed time = 8.065950 min
+
+BM3D=25.984488,SAIST=26.066556
+i=3,j=7
+2.tif:
+Image: External image (770x878), sigma: 40.0
+BASIC ESTIMATE, PSNR: 24.36 dB
+FINAL ESTIMATE (total time: 22.7 sec), PSNR: 24.86 dB, SSIM: 1.000
+PSNR of the noisy image = 16.089507 
+
+Iteration 1 : nSig = 40.00, PSNR = 21.41, SSIM = 0.4396
+Iteration 2 : nSig = 24.38, PSNR = 23.66, SSIM = 0.5645
+Iteration 3 : nSig = 22.11, PSNR = 24.79, SSIM = 0.6630
+Iteration 4 : nSig = 19.98, PSNR = 25.01, SSIM = 0.6711
+Iteration 5 : nSig = 18.79, PSNR = 24.99, SSIM = 0.6623
+Iteration 6 : nSig = 18.22, PSNR = 24.97, SSIM = 0.6568
+Iteration 7 : nSig = 17.77, PSNR = 24.95, SSIM = 0.6534
+Iteration 8 : nSig = 17.63, PSNR = 24.93, SSIM = 0.6514
+Iteration 9 : nSig = 17.56, PSNR = 24.92, SSIM = 0.6501
+Iteration 10 : nSig = 17.52, PSNR = 24.91, SSIM = 0.6493
+Iteration 11 : nSig = 17.50, PSNR = 24.90, SSIM = 0.6487
+Iteration 12 : nSig = 17.48, PSNR = 24.90, SSIM = 0.6484
+Total elapsed time = 13.110350 min
+
+BM3D=24.861306,SAIST=24.901576
+i=3,j=8
+2.tif:
+Image: External image (770x878), sigma: 50.0
+BASIC ESTIMATE, PSNR: 23.75 dB
+FINAL ESTIMATE (total time: 32.0 sec), PSNR: 24.12 dB, SSIM: 1.000
+PSNR of the noisy image = 14.152735 
+
+Iteration 1 : nSig = 50.00, PSNR = 19.88, SSIM = 0.3579
+Iteration 2 : nSig = 30.34, PSNR = 22.57, SSIM = 0.4868
+Iteration 3 : nSig = 27.31, PSNR = 23.97, SSIM = 0.6048
+Iteration 4 : nSig = 24.47, PSNR = 24.20, SSIM = 0.6155
+Iteration 5 : nSig = 22.99, PSNR = 24.16, SSIM = 0.6047
+Iteration 6 : nSig = 22.36, PSNR = 24.14, SSIM = 0.5983
+Iteration 7 : nSig = 21.83, PSNR = 24.12, SSIM = 0.5946
+Iteration 8 : nSig = 21.69, PSNR = 24.10, SSIM = 0.5925
+Iteration 9 : nSig = 21.63, PSNR = 24.09, SSIM = 0.5911
+Iteration 10 : nSig = 21.59, PSNR = 24.08, SSIM = 0.5902
+Iteration 11 : nSig = 21.57, PSNR = 24.07, SSIM = 0.5896
+Iteration 12 : nSig = 21.56, PSNR = 24.07, SSIM = 0.5890
+Total elapsed time = 13.119083 min
+
+BM3D=24.124607,SAIST=24.069393
+i=3,j=9
+2.tif:
+Image: External image (770x878), sigma: 100.0
+BASIC ESTIMATE, PSNR: 21.56 dB
+FINAL ESTIMATE (total time: 33.7 sec), PSNR: 22.19 dB, SSIM: 1.000
+PSNR of the noisy image = 8.135218 
+
+Iteration 1 : nSig = 100.00, PSNR = 14.26, SSIM = 0.1450
+Iteration 2 : nSig = 58.24, PSNR = 17.50, SSIM = 0.2152
+Iteration 3 : nSig = 53.30, PSNR = 20.45, SSIM = 0.3318
+Iteration 4 : nSig = 48.04, PSNR = 21.82, SSIM = 0.4395
+Iteration 5 : nSig = 44.19, PSNR = 22.04, SSIM = 0.4597
+Iteration 6 : nSig = 42.51, PSNR = 22.07, SSIM = 0.4606
+Iteration 7 : nSig = 41.63, PSNR = 22.04, SSIM = 0.4577
+Iteration 8 : nSig = 41.40, PSNR = 22.02, SSIM = 0.4560
+Iteration 9 : nSig = 41.31, PSNR = 22.00, SSIM = 0.4549
+Iteration 10 : nSig = 41.26, PSNR = 21.99, SSIM = 0.4542
+Iteration 11 : nSig = 41.23, PSNR = 21.98, SSIM = 0.4537
+Iteration 12 : nSig = 41.22, PSNR = 21.96, SSIM = 0.4527
+Iteration 13 : nSig = 41.21, PSNR = 21.95, SSIM = 0.4523
+Iteration 14 : nSig = 41.20, PSNR = 21.95, SSIM = 0.4522
+Total elapsed time = 24.619583 min
+
+BM3D=22.194836,SAIST=21.945031
+i=4,j=1
+3.tif:
+Image: External image (512x512), sigma: 5.0
+BASIC ESTIMATE, PSNR: 35.23 dB
+FINAL ESTIMATE (total time: 7.8 sec), PSNR: 35.47 dB, SSIM: 1.000
+PSNR of the noisy image = 34.161605 
+
+Iteration 1 : nSig = 5.00, PSNR = 35.37, SSIM = 0.9420
+Iteration 2 : nSig = 3.03, PSNR = 35.48, SSIM = 0.9427
+Iteration 3 : nSig = 2.96, PSNR = 35.51, SSIM = 0.9422
+Iteration 4 : nSig = 2.90, PSNR = 35.51, SSIM = 0.9412
+Iteration 5 : nSig = 2.85, PSNR = 35.49, SSIM = 0.9401
+Iteration 6 : nSig = 2.81, PSNR = 35.48, SSIM = 0.9392
+Iteration 7 : nSig = 2.78, PSNR = 35.46, SSIM = 0.9382
+Iteration 8 : nSig = 2.75, PSNR = 35.43, SSIM = 0.9373
+Iteration 9 : nSig = 2.73, PSNR = 35.41, SSIM = 0.9366
+Iteration 10 : nSig = 2.72, PSNR = 35.40, SSIM = 0.9361
+Total elapsed time = 2.467117 min
+
+BM3D=35.474053,SAIST=35.396153
+i=4,j=2
+3.tif:
+Image: External image (512x512), sigma: 10.0
+BASIC ESTIMATE, PSNR: 31.21 dB
+FINAL ESTIMATE (total time: 8.0 sec), PSNR: 31.34 dB, SSIM: 1.000
+PSNR of the noisy image = 28.139752 
+
+Iteration 1 : nSig = 10.00, PSNR = 30.88, SSIM = 0.8567
+Iteration 2 : nSig = 5.86, PSNR = 31.32, SSIM = 0.8662
+Iteration 3 : nSig = 5.58, PSNR = 31.49, SSIM = 0.8664
+Iteration 4 : nSig = 5.32, PSNR = 31.52, SSIM = 0.8623
+Iteration 5 : nSig = 5.11, PSNR = 31.50, SSIM = 0.8574
+Iteration 6 : nSig = 4.95, PSNR = 31.47, SSIM = 0.8522
+Iteration 7 : nSig = 4.83, PSNR = 31.43, SSIM = 0.8484
+Iteration 8 : nSig = 4.75, PSNR = 31.40, SSIM = 0.8458
+Iteration 9 : nSig = 4.70, PSNR = 31.38, SSIM = 0.8442
+Iteration 10 : nSig = 4.68, PSNR = 31.36, SSIM = 0.8431
+Total elapsed time = 2.433183 min
+
+BM3D=31.342691,SAIST=31.359675
+i=4,j=3
+3.tif:
+Image: External image (512x512), sigma: 15.0
+BASIC ESTIMATE, PSNR: 29.23 dB
+FINAL ESTIMATE (total time: 8.3 sec), PSNR: 29.41 dB, SSIM: 1.000
+PSNR of the noisy image = 24.612199 
+
+Iteration 1 : nSig = 15.00, PSNR = 28.40, SSIM = 0.7766
+Iteration 2 : nSig = 8.64, PSNR = 29.18, SSIM = 0.8030
+Iteration 3 : nSig = 8.07, PSNR = 29.48, SSIM = 0.8071
+Iteration 4 : nSig = 7.57, PSNR = 29.54, SSIM = 0.8009
+Iteration 5 : nSig = 7.21, PSNR = 29.53, SSIM = 0.7945
+Iteration 6 : nSig = 7.00, PSNR = 29.51, SSIM = 0.7884
+Iteration 7 : nSig = 6.83, PSNR = 29.49, SSIM = 0.7856
+Iteration 8 : nSig = 6.75, PSNR = 29.48, SSIM = 0.7842
+Iteration 9 : nSig = 6.72, PSNR = 29.47, SSIM = 0.7835
+Iteration 10 : nSig = 6.70, PSNR = 29.46, SSIM = 0.7831
+Total elapsed time = 2.418433 min
+
+BM3D=29.406446,SAIST=29.460143
+i=4,j=4
+3.tif:
+Image: External image (512x512), sigma: 20.0
+BASIC ESTIMATE, PSNR: 27.87 dB
+FINAL ESTIMATE (total time: 8.4 sec), PSNR: 28.12 dB, SSIM: 1.000
+PSNR of the noisy image = 22.111426 
+
+Iteration 1 : nSig = 20.00, PSNR = 26.40, SSIM = 0.6961
+Iteration 2 : nSig = 11.88, PSNR = 27.59, SSIM = 0.7476
+Iteration 3 : nSig = 10.98, PSNR = 28.10, SSIM = 0.7629
+Iteration 4 : nSig = 10.16, PSNR = 28.20, SSIM = 0.7568
+Iteration 5 : nSig = 9.61, PSNR = 28.19, SSIM = 0.7494
+Iteration 6 : nSig = 9.32, PSNR = 28.18, SSIM = 0.7438
+Iteration 7 : nSig = 9.10, PSNR = 28.18, SSIM = 0.7422
+Iteration 8 : nSig = 9.03, PSNR = 28.18, SSIM = 0.7416
+Iteration 9 : nSig = 9.00, PSNR = 28.17, SSIM = 0.7414
+Iteration 10 : nSig = 8.98, PSNR = 28.17, SSIM = 0.7413
+Iteration 11 : nSig = 8.97, PSNR = 28.17, SSIM = 0.7412
+Total elapsed time = 3.132533 min
+
+BM3D=28.119177,SAIST=28.169441
+i=4,j=5
+3.tif:
+Image: External image (512x512), sigma: 25.0
+BASIC ESTIMATE, PSNR: 26.86 dB
+FINAL ESTIMATE (total time: 8.5 sec), PSNR: 27.18 dB, SSIM: 1.000
+PSNR of the noisy image = 20.184948 
+
+Iteration 1 : nSig = 25.00, PSNR = 24.99, SSIM = 0.6286
+Iteration 2 : nSig = 14.75, PSNR = 26.47, SSIM = 0.6988
+Iteration 3 : nSig = 13.52, PSNR = 27.09, SSIM = 0.7226
+Iteration 4 : nSig = 12.41, PSNR = 27.21, SSIM = 0.7174
+Iteration 5 : nSig = 11.75, PSNR = 27.20, SSIM = 0.7109
+Iteration 6 : nSig = 11.45, PSNR = 27.21, SSIM = 0.7067
+Iteration 7 : nSig = 11.21, PSNR = 27.21, SSIM = 0.7058
+Iteration 8 : nSig = 11.14, PSNR = 27.21, SSIM = 0.7056
+Iteration 9 : nSig = 11.10, PSNR = 27.21, SSIM = 0.7056
+Iteration 10 : nSig = 11.08, PSNR = 27.21, SSIM = 0.7057
+Iteration 11 : nSig = 11.07, PSNR = 27.21, SSIM = 0.7058
+Total elapsed time = 3.122000 min
+
+BM3D=27.177123,SAIST=27.212169
+i=4,j=6
+3.tif:
+Image: External image (512x512), sigma: 30.0
+BASIC ESTIMATE, PSNR: 26.01 dB
+FINAL ESTIMATE (total time: 8.4 sec), PSNR: 26.39 dB, SSIM: 1.000
+PSNR of the noisy image = 18.585573 
+
+Iteration 1 : nSig = 30.00, PSNR = 23.77, SSIM = 0.5681
+Iteration 2 : nSig = 17.61, PSNR = 25.51, SSIM = 0.6565
+Iteration 3 : nSig = 16.04, PSNR = 26.25, SSIM = 0.6918
+Iteration 4 : nSig = 14.66, PSNR = 26.38, SSIM = 0.6880
+Iteration 5 : nSig = 13.90, PSNR = 26.38, SSIM = 0.6816
+Iteration 6 : nSig = 13.56, PSNR = 26.40, SSIM = 0.6785
+Iteration 7 : nSig = 13.28, PSNR = 26.41, SSIM = 0.6778
+Iteration 8 : nSig = 13.20, PSNR = 26.41, SSIM = 0.6777
+Iteration 9 : nSig = 13.17, PSNR = 26.41, SSIM = 0.6777
+Iteration 10 : nSig = 13.15, PSNR = 26.41, SSIM = 0.6779
+Iteration 11 : nSig = 13.14, PSNR = 26.41, SSIM = 0.6780
+Total elapsed time = 3.128650 min
+
+BM3D=26.394043,SAIST=26.414604
+i=4,j=7
+3.tif:
+Image: External image (512x512), sigma: 40.0
+BASIC ESTIMATE, PSNR: 24.37 dB
+FINAL ESTIMATE (total time: 7.9 sec), PSNR: 25.13 dB, SSIM: 1.000
+PSNR of the noisy image = 16.095841 
+
+Iteration 1 : nSig = 40.00, PSNR = 21.43, SSIM = 0.4531
+Iteration 2 : nSig = 24.40, PSNR = 23.72, SSIM = 0.5641
+Iteration 3 : nSig = 22.14, PSNR = 24.92, SSIM = 0.6351
+Iteration 4 : nSig = 20.00, PSNR = 25.18, SSIM = 0.6404
+Iteration 5 : nSig = 18.82, PSNR = 25.19, SSIM = 0.6355
+Iteration 6 : nSig = 18.34, PSNR = 25.23, SSIM = 0.6330
+Iteration 7 : nSig = 17.98, PSNR = 25.23, SSIM = 0.6326
+Iteration 8 : nSig = 17.88, PSNR = 25.24, SSIM = 0.6327
+Iteration 9 : nSig = 17.83, PSNR = 25.24, SSIM = 0.6328
+Iteration 10 : nSig = 17.80, PSNR = 25.24, SSIM = 0.6330
+Iteration 11 : nSig = 17.78, PSNR = 25.25, SSIM = 0.6331
+Iteration 12 : nSig = 17.77, PSNR = 25.25, SSIM = 0.6333
+Total elapsed time = 5.045617 min
+
+BM3D=25.130332,SAIST=25.246506
+i=4,j=8
+3.tif:
+Image: External image (512x512), sigma: 50.0
+BASIC ESTIMATE, PSNR: 23.72 dB
+FINAL ESTIMATE (total time: 11.8 sec), PSNR: 24.22 dB, SSIM: 1.000
+PSNR of the noisy image = 14.151430 
+
+Iteration 1 : nSig = 50.00, PSNR = 19.82, SSIM = 0.3779
+Iteration 2 : nSig = 30.39, PSNR = 22.49, SSIM = 0.4981
+Iteration 3 : nSig = 27.41, PSNR = 23.93, SSIM = 0.5895
+Iteration 4 : nSig = 24.62, PSNR = 24.22, SSIM = 0.6004
+Iteration 5 : nSig = 23.20, PSNR = 24.24, SSIM = 0.5971
+Iteration 6 : nSig = 22.68, PSNR = 24.29, SSIM = 0.5964
+Iteration 7 : nSig = 22.26, PSNR = 24.31, SSIM = 0.5967
+Iteration 8 : nSig = 22.15, PSNR = 24.33, SSIM = 0.5971
+Iteration 9 : nSig = 22.10, PSNR = 24.33, SSIM = 0.5975
+Iteration 10 : nSig = 22.08, PSNR = 24.34, SSIM = 0.5978
+Iteration 11 : nSig = 22.06, PSNR = 24.34, SSIM = 0.5981
+Iteration 12 : nSig = 22.05, PSNR = 24.35, SSIM = 0.5984
+Total elapsed time = 5.039817 min
+
+BM3D=24.223043,SAIST=24.350069
+i=4,j=9
+3.tif:
+Image: External image (512x512), sigma: 100.0
+BASIC ESTIMATE, PSNR: 20.88 dB
+FINAL ESTIMATE (total time: 12.5 sec), PSNR: 21.72 dB, SSIM: 1.000
+PSNR of the noisy image = 8.114630 
+
+Iteration 1 : nSig = 100.00, PSNR = 14.07, SSIM = 0.1722
+Iteration 2 : nSig = 58.38, PSNR = 17.10, SSIM = 0.2415
+Iteration 3 : nSig = 53.64, PSNR = 19.83, SSIM = 0.3520
+Iteration 4 : nSig = 48.63, PSNR = 21.21, SSIM = 0.4560
+Iteration 5 : nSig = 44.84, PSNR = 21.53, SSIM = 0.4839
+Iteration 6 : nSig = 43.13, PSNR = 21.70, SSIM = 0.4938
+Iteration 7 : nSig = 42.25, PSNR = 21.74, SSIM = 0.4958
+Iteration 8 : nSig = 42.01, PSNR = 21.76, SSIM = 0.4969
+Iteration 9 : nSig = 41.91, PSNR = 21.77, SSIM = 0.4976
+Iteration 10 : nSig = 41.86, PSNR = 21.78, SSIM = 0.4981
+Iteration 11 : nSig = 41.84, PSNR = 21.78, SSIM = 0.4984
+Iteration 12 : nSig = 41.82, PSNR = 21.80, SSIM = 0.4990
+Iteration 13 : nSig = 41.81, PSNR = 21.80, SSIM = 0.4994
+Iteration 14 : nSig = 41.81, PSNR = 21.80, SSIM = 0.4999
+Total elapsed time = 9.668967 min
+
+BM3D=21.718037,SAIST=21.802652
+i=5,j=1
+4.tif:
+Image: External image (512x512), sigma: 5.0
+BASIC ESTIMATE, PSNR: 35.11 dB
+FINAL ESTIMATE (total time: 7.7 sec), PSNR: 35.26 dB, SSIM: 1.000
+PSNR of the noisy image = 34.160537 
+
+Iteration 1 : nSig = 5.00, PSNR = 35.18, SSIM = 0.9588
+Iteration 2 : nSig = 3.05, PSNR = 35.30, SSIM = 0.9604
+Iteration 3 : nSig = 2.99, PSNR = 35.34, SSIM = 0.9605
+Iteration 4 : nSig = 2.94, PSNR = 35.34, SSIM = 0.9600
+Iteration 5 : nSig = 2.89, PSNR = 35.33, SSIM = 0.9590
+Iteration 6 : nSig = 2.85, PSNR = 35.31, SSIM = 0.9579
+Iteration 7 : nSig = 2.82, PSNR = 35.29, SSIM = 0.9569
+Iteration 8 : nSig = 2.79, PSNR = 35.26, SSIM = 0.9559
+Iteration 9 : nSig = 2.78, PSNR = 35.24, SSIM = 0.9552
+Iteration 10 : nSig = 2.76, PSNR = 35.22, SSIM = 0.9546
+Total elapsed time = 2.464083 min
+
+BM3D=35.255660,SAIST=35.224630
+i=5,j=2
+4.tif:
+Image: External image (512x512), sigma: 10.0
+BASIC ESTIMATE, PSNR: 30.40 dB
+FINAL ESTIMATE (total time: 8.0 sec), PSNR: 30.59 dB, SSIM: 1.000
+PSNR of the noisy image = 28.141966 
+
+Iteration 1 : nSig = 10.00, PSNR = 30.26, SSIM = 0.8934
+Iteration 2 : nSig = 5.95, PSNR = 30.58, SSIM = 0.9037
+Iteration 3 : nSig = 5.72, PSNR = 30.70, SSIM = 0.9053
+Iteration 4 : nSig = 5.51, PSNR = 30.72, SSIM = 0.9027
+Iteration 5 : nSig = 5.35, PSNR = 30.71, SSIM = 0.8995
+Iteration 6 : nSig = 5.25, PSNR = 30.69, SSIM = 0.8964
+Iteration 7 : nSig = 5.16, PSNR = 30.67, SSIM = 0.8945
+Iteration 8 : nSig = 5.11, PSNR = 30.66, SSIM = 0.8933
+Iteration 9 : nSig = 5.08, PSNR = 30.64, SSIM = 0.8924
+Iteration 10 : nSig = 5.06, PSNR = 30.63, SSIM = 0.8918
+Total elapsed time = 2.446383 min
+
+BM3D=30.590574,SAIST=30.632854
+i=5,j=3
+4.tif:
+Image: External image (512x512), sigma: 15.0
+BASIC ESTIMATE, PSNR: 27.92 dB
+FINAL ESTIMATE (total time: 8.3 sec), PSNR: 28.19 dB, SSIM: 1.000
+PSNR of the noisy image = 24.599560 
+
+Iteration 1 : nSig = 15.00, PSNR = 27.54, SSIM = 0.8230
+Iteration 2 : nSig = 8.77, PSNR = 28.08, SSIM = 0.8479
+Iteration 3 : nSig = 8.32, PSNR = 28.29, SSIM = 0.8539
+Iteration 4 : nSig = 7.92, PSNR = 28.33, SSIM = 0.8509
+Iteration 5 : nSig = 7.66, PSNR = 28.33, SSIM = 0.8470
+Iteration 6 : nSig = 7.50, PSNR = 28.33, SSIM = 0.8434
+Iteration 7 : nSig = 7.36, PSNR = 28.31, SSIM = 0.8413
+Iteration 8 : nSig = 7.30, PSNR = 28.30, SSIM = 0.8401
+Iteration 9 : nSig = 7.26, PSNR = 28.29, SSIM = 0.8392
+Iteration 10 : nSig = 7.23, PSNR = 28.28, SSIM = 0.8387
+Total elapsed time = 2.431617 min
+
+BM3D=28.193293,SAIST=28.278813
+i=5,j=4
+4.tif:
+Image: External image (512x512), sigma: 20.0
+BASIC ESTIMATE, PSNR: 26.30 dB
+FINAL ESTIMATE (total time: 8.6 sec), PSNR: 26.62 dB, SSIM: 1.000
+PSNR of the noisy image = 22.099693 
+
+Iteration 1 : nSig = 20.00, PSNR = 25.56, SSIM = 0.7499
+Iteration 2 : nSig = 12.04, PSNR = 26.39, SSIM = 0.7949
+Iteration 3 : nSig = 11.29, PSNR = 26.74, SSIM = 0.8105
+Iteration 4 : nSig = 10.61, PSNR = 26.83, SSIM = 0.8076
+Iteration 5 : nSig = 10.18, PSNR = 26.84, SSIM = 0.8029
+Iteration 6 : nSig = 9.94, PSNR = 26.84, SSIM = 0.7989
+Iteration 7 : nSig = 9.73, PSNR = 26.83, SSIM = 0.7969
+Iteration 8 : nSig = 9.65, PSNR = 26.82, SSIM = 0.7956
+Iteration 9 : nSig = 9.59, PSNR = 26.81, SSIM = 0.7947
+Iteration 10 : nSig = 9.56, PSNR = 26.80, SSIM = 0.7941
+Iteration 11 : nSig = 9.54, PSNR = 26.79, SSIM = 0.7937
+Total elapsed time = 3.153933 min
+
+BM3D=26.621437,SAIST=26.794397
+i=5,j=5
+4.tif:
+Image: External image (512x512), sigma: 25.0
+BASIC ESTIMATE, PSNR: 25.12 dB
+FINAL ESTIMATE (total time: 8.9 sec), PSNR: 25.45 dB, SSIM: 1.000
+PSNR of the noisy image = 20.165694 
+
+Iteration 1 : nSig = 25.00, PSNR = 24.13, SSIM = 0.6847
+Iteration 2 : nSig = 14.91, PSNR = 25.16, SSIM = 0.7445
+Iteration 3 : nSig = 13.86, PSNR = 25.58, SSIM = 0.7659
+Iteration 4 : nSig = 12.91, PSNR = 25.67, SSIM = 0.7615
+Iteration 5 : nSig = 12.36, PSNR = 25.67, SSIM = 0.7554
+Iteration 6 : nSig = 12.07, PSNR = 25.68, SSIM = 0.7508
+Iteration 7 : nSig = 11.81, PSNR = 25.67, SSIM = 0.7484
+Iteration 8 : nSig = 11.71, PSNR = 25.66, SSIM = 0.7471
+Iteration 9 : nSig = 11.65, PSNR = 25.65, SSIM = 0.7462
+Iteration 10 : nSig = 11.62, PSNR = 25.64, SSIM = 0.7456
+Iteration 11 : nSig = 11.60, PSNR = 25.64, SSIM = 0.7451
+Total elapsed time = 3.144600 min
+
+BM3D=25.447081,SAIST=25.636852
+i=5,j=6
+4.tif:
+Image: External image (512x512), sigma: 30.0
+BASIC ESTIMATE, PSNR: 24.20 dB
+FINAL ESTIMATE (total time: 9.0 sec), PSNR: 24.53 dB, SSIM: 1.000
+PSNR of the noisy image = 18.615543 
+
+Iteration 1 : nSig = 30.00, PSNR = 23.03, SSIM = 0.6266
+Iteration 2 : nSig = 17.77, PSNR = 24.25, SSIM = 0.6991
+Iteration 3 : nSig = 16.37, PSNR = 24.72, SSIM = 0.7258
+Iteration 4 : nSig = 15.16, PSNR = 24.81, SSIM = 0.7197
+Iteration 5 : nSig = 14.50, PSNR = 24.80, SSIM = 0.7120
+Iteration 6 : nSig = 14.16, PSNR = 24.80, SSIM = 0.7069
+Iteration 7 : nSig = 13.85, PSNR = 24.79, SSIM = 0.7044
+Iteration 8 : nSig = 13.73, PSNR = 24.78, SSIM = 0.7030
+Iteration 9 : nSig = 13.67, PSNR = 24.77, SSIM = 0.7021
+Iteration 10 : nSig = 13.63, PSNR = 24.76, SSIM = 0.7016
+Iteration 11 : nSig = 13.61, PSNR = 24.76, SSIM = 0.7012
+Total elapsed time = 3.142333 min
+
+BM3D=24.528503,SAIST=24.757475
+i=5,j=7
+4.tif:
+Image: External image (512x512), sigma: 40.0
+BASIC ESTIMATE, PSNR: 22.40 dB
+FINAL ESTIMATE (total time: 8.0 sec), PSNR: 23.08 dB, SSIM: 1.000
+PSNR of the noisy image = 16.100249 
+
+Iteration 1 : nSig = 40.00, PSNR = 20.84, SSIM = 0.5106
+Iteration 2 : nSig = 24.54, PSNR = 22.58, SSIM = 0.6017
+Iteration 3 : nSig = 22.47, PSNR = 23.40, SSIM = 0.6573
+Iteration 4 : nSig = 20.50, PSNR = 23.56, SSIM = 0.6539
+Iteration 5 : nSig = 19.37, PSNR = 23.55, SSIM = 0.6436
+Iteration 6 : nSig = 18.83, PSNR = 23.56, SSIM = 0.6375
+Iteration 7 : nSig = 18.37, PSNR = 23.54, SSIM = 0.6344
+Iteration 8 : nSig = 18.21, PSNR = 23.53, SSIM = 0.6326
+Iteration 9 : nSig = 18.12, PSNR = 23.52, SSIM = 0.6315
+Iteration 10 : nSig = 18.07, PSNR = 23.51, SSIM = 0.6308
+Iteration 11 : nSig = 18.04, PSNR = 23.50, SSIM = 0.6303
+Iteration 12 : nSig = 18.02, PSNR = 23.50, SSIM = 0.6300
+Total elapsed time = 5.462317 min
+
+BM3D=23.075611,SAIST=23.501730
+i=5,j=8
+4.tif:
+Image: External image (512x512), sigma: 50.0
+BASIC ESTIMATE, PSNR: 22.04 dB
+FINAL ESTIMATE (total time: 11.7 sec), PSNR: 22.36 dB, SSIM: 1.000
+PSNR of the noisy image = 14.139806 
+
+Iteration 1 : nSig = 50.00, PSNR = 19.34, SSIM = 0.4268
+Iteration 2 : nSig = 30.50, PSNR = 21.48, SSIM = 0.5262
+Iteration 3 : nSig = 27.70, PSNR = 22.51, SSIM = 0.5971
+Iteration 4 : nSig = 25.04, PSNR = 22.70, SSIM = 0.5941
+Iteration 5 : nSig = 23.58, PSNR = 22.67, SSIM = 0.5807
+Iteration 6 : nSig = 22.92, PSNR = 22.67, SSIM = 0.5735
+Iteration 7 : nSig = 22.35, PSNR = 22.65, SSIM = 0.5698
+Iteration 8 : nSig = 22.16, PSNR = 22.64, SSIM = 0.5678
+Iteration 9 : nSig = 22.07, PSNR = 22.63, SSIM = 0.5665
+Iteration 10 : nSig = 22.02, PSNR = 22.62, SSIM = 0.5657
+Iteration 11 : nSig = 21.99, PSNR = 22.62, SSIM = 0.5651
+Iteration 12 : nSig = 21.97, PSNR = 22.62, SSIM = 0.5648
+Total elapsed time = 5.087533 min
+
+BM3D=22.357826,SAIST=22.615345
+i=5,j=9
+4.tif:
+Image: External image (512x512), sigma: 100.0
+BASIC ESTIMATE, PSNR: 19.96 dB
+FINAL ESTIMATE (total time: 12.8 sec), PSNR: 20.37 dB, SSIM: 1.000
+PSNR of the noisy image = 8.133296 
+
+Iteration 1 : nSig = 100.00, PSNR = 14.02, SSIM = 0.1882
+Iteration 2 : nSig = 58.33, PSNR = 16.90, SSIM = 0.2532
+Iteration 3 : nSig = 53.54, PSNR = 19.27, SSIM = 0.3393
+Iteration 4 : nSig = 48.45, PSNR = 20.25, SSIM = 0.3981
+Iteration 5 : nSig = 44.56, PSNR = 20.37, SSIM = 0.3945
+Iteration 6 : nSig = 42.70, PSNR = 20.37, SSIM = 0.3839
+Iteration 7 : nSig = 41.65, PSNR = 20.33, SSIM = 0.3758
+Iteration 8 : nSig = 41.27, PSNR = 20.29, SSIM = 0.3704
+Iteration 9 : nSig = 41.08, PSNR = 20.26, SSIM = 0.3667
+Iteration 10 : nSig = 40.96, PSNR = 20.24, SSIM = 0.3639
+Iteration 11 : nSig = 40.89, PSNR = 20.22, SSIM = 0.3619
+Iteration 12 : nSig = 40.84, PSNR = 20.21, SSIM = 0.3601
+Iteration 13 : nSig = 40.81, PSNR = 20.20, SSIM = 0.3592
+Iteration 14 : nSig = 40.79, PSNR = 20.19, SSIM = 0.3587
+Total elapsed time = 9.704317 min
+
+BM3D=20.374990,SAIST=20.194522
+i=6,j=1
+5.tif:
+Image: External image (512x512), sigma: 5.0
+BASIC ESTIMATE, PSNR: 37.00 dB
+FINAL ESTIMATE (total time: 8.3 sec), PSNR: 37.21 dB, SSIM: 1.000
+PSNR of the noisy image = 34.169490 
+
+Iteration 1 : nSig = 5.00, PSNR = 36.66, SSIM = 0.9372
+Iteration 2 : nSig = 2.95, PSNR = 37.06, SSIM = 0.9438
+Iteration 3 : nSig = 2.82, PSNR = 37.23, SSIM = 0.9459
+Iteration 4 : nSig = 2.71, PSNR = 37.28, SSIM = 0.9460
+Iteration 5 : nSig = 2.63, PSNR = 37.28, SSIM = 0.9456
+Iteration 6 : nSig = 2.57, PSNR = 37.28, SSIM = 0.9450
+Iteration 7 : nSig = 2.52, PSNR = 37.26, SSIM = 0.9444
+Iteration 8 : nSig = 2.50, PSNR = 37.25, SSIM = 0.9440
+Iteration 9 : nSig = 2.48, PSNR = 37.23, SSIM = 0.9437
+Iteration 10 : nSig = 2.47, PSNR = 37.22, SSIM = 0.9434
+Total elapsed time = 2.431683 min
+
+BM3D=37.214459,SAIST=37.221491
+i=6,j=2
+5.tif:
+Image: External image (512x512), sigma: 10.0
+BASIC ESTIMATE, PSNR: 33.43 dB
+FINAL ESTIMATE (total time: 8.6 sec), PSNR: 33.66 dB, SSIM: 1.000
+PSNR of the noisy image = 28.126841 
+
+Iteration 1 : nSig = 10.00, PSNR = 32.24, SSIM = 0.8460
+Iteration 2 : nSig = 5.74, PSNR = 33.19, SSIM = 0.8779
+Iteration 3 : nSig = 5.35, PSNR = 33.60, SSIM = 0.8886
+Iteration 4 : nSig = 5.03, PSNR = 33.72, SSIM = 0.8898
+Iteration 5 : nSig = 4.83, PSNR = 33.75, SSIM = 0.8889
+Iteration 6 : nSig = 4.71, PSNR = 33.76, SSIM = 0.8878
+Iteration 7 : nSig = 4.60, PSNR = 33.75, SSIM = 0.8868
+Iteration 8 : nSig = 4.55, PSNR = 33.74, SSIM = 0.8862
+Iteration 9 : nSig = 4.52, PSNR = 33.73, SSIM = 0.8858
+Iteration 10 : nSig = 4.51, PSNR = 33.72, SSIM = 0.8856
+Total elapsed time = 2.431017 min
+
+BM3D=33.661663,SAIST=33.724579
+i=6,j=3
+5.tif:
+Image: External image (512x512), sigma: 15.0
+BASIC ESTIMATE, PSNR: 31.68 dB
+FINAL ESTIMATE (total time: 8.9 sec), PSNR: 31.94 dB, SSIM: 1.000
+PSNR of the noisy image = 24.606798 
+
+Iteration 1 : nSig = 15.00, PSNR = 29.69, SSIM = 0.7531
+Iteration 2 : nSig = 8.50, PSNR = 31.12, SSIM = 0.8185
+Iteration 3 : nSig = 7.81, PSNR = 31.73, SSIM = 0.8423
+Iteration 4 : nSig = 7.26, PSNR = 31.90, SSIM = 0.8453
+Iteration 5 : nSig = 6.95, PSNR = 31.94, SSIM = 0.8442
+Iteration 6 : nSig = 6.79, PSNR = 31.97, SSIM = 0.8433
+Iteration 7 : nSig = 6.61, PSNR = 31.96, SSIM = 0.8423
+Iteration 8 : nSig = 6.55, PSNR = 31.95, SSIM = 0.8417
+Iteration 9 : nSig = 6.52, PSNR = 31.95, SSIM = 0.8414
+Iteration 10 : nSig = 6.51, PSNR = 31.94, SSIM = 0.8412
+Total elapsed time = 2.411833 min
+
+BM3D=31.944535,SAIST=31.940965
+i=6,j=4
+5.tif:
+Image: External image (512x512), sigma: 20.0
+BASIC ESTIMATE, PSNR: 30.46 dB
+FINAL ESTIMATE (total time: 9.1 sec), PSNR: 30.79 dB, SSIM: 1.000
+PSNR of the noisy image = 22.121253 
+
+Iteration 1 : nSig = 20.00, PSNR = 27.58, SSIM = 0.6538
+Iteration 2 : nSig = 11.73, PSNR = 29.56, SSIM = 0.7588
+Iteration 3 : nSig = 10.67, PSNR = 30.50, SSIM = 0.8039
+Iteration 4 : nSig = 9.77, PSNR = 30.73, SSIM = 0.8095
+Iteration 5 : nSig = 9.28, PSNR = 30.77, SSIM = 0.8077
+Iteration 6 : nSig = 9.04, PSNR = 30.79, SSIM = 0.8062
+Iteration 7 : nSig = 8.82, PSNR = 30.79, SSIM = 0.8053
+Iteration 8 : nSig = 8.76, PSNR = 30.79, SSIM = 0.8048
+Iteration 9 : nSig = 8.73, PSNR = 30.78, SSIM = 0.8045
+Iteration 10 : nSig = 8.71, PSNR = 30.78, SSIM = 0.8043
+Iteration 11 : nSig = 8.70, PSNR = 30.78, SSIM = 0.8041
+Total elapsed time = 3.118950 min
+
+BM3D=30.787193,SAIST=30.777536
+i=6,j=5
+5.tif:
+Image: External image (512x512), sigma: 25.0
+BASIC ESTIMATE, PSNR: 29.42 dB
+FINAL ESTIMATE (total time: 9.2 sec), PSNR: 29.83 dB, SSIM: 1.000
+PSNR of the noisy image = 20.135772 
+
+Iteration 1 : nSig = 25.00, PSNR = 25.96, SSIM = 0.5678
+Iteration 2 : nSig = 14.58, PSNR = 28.29, SSIM = 0.6999
+Iteration 3 : nSig = 13.18, PSNR = 29.43, SSIM = 0.7660
+Iteration 4 : nSig = 11.98, PSNR = 29.70, SSIM = 0.7748
+Iteration 5 : nSig = 11.37, PSNR = 29.73, SSIM = 0.7730
+Iteration 6 : nSig = 11.11, PSNR = 29.78, SSIM = 0.7724
+Iteration 7 : nSig = 10.83, PSNR = 29.79, SSIM = 0.7717
+Iteration 8 : nSig = 10.76, PSNR = 29.79, SSIM = 0.7713
+Iteration 9 : nSig = 10.73, PSNR = 29.79, SSIM = 0.7712
+Iteration 10 : nSig = 10.72, PSNR = 29.79, SSIM = 0.7711
+Iteration 11 : nSig = 10.71, PSNR = 29.79, SSIM = 0.7711
+Total elapsed time = 3.120367 min
+
+BM3D=29.827806,SAIST=29.786491
+i=6,j=6
+5.tif:
+Image: External image (512x512), sigma: 30.0
+BASIC ESTIMATE, PSNR: 28.65 dB
+FINAL ESTIMATE (total time: 9.2 sec), PSNR: 29.13 dB, SSIM: 1.000
+PSNR of the noisy image = 18.587579 
+
+Iteration 1 : nSig = 30.00, PSNR = 24.74, SSIM = 0.4982
+Iteration 2 : nSig = 17.45, PSNR = 27.40, SSIM = 0.6506
+Iteration 3 : nSig = 15.68, PSNR = 28.70, SSIM = 0.7338
+Iteration 4 : nSig = 14.21, PSNR = 28.96, SSIM = 0.7447
+Iteration 5 : nSig = 13.52, PSNR = 28.97, SSIM = 0.7424
+Iteration 6 : nSig = 13.24, PSNR = 29.03, SSIM = 0.7428
+Iteration 7 : nSig = 12.92, PSNR = 29.04, SSIM = 0.7422
+Iteration 8 : nSig = 12.85, PSNR = 29.04, SSIM = 0.7420
+Iteration 9 : nSig = 12.82, PSNR = 29.04, SSIM = 0.7418
+Iteration 10 : nSig = 12.81, PSNR = 29.03, SSIM = 0.7418
+Iteration 11 : nSig = 12.80, PSNR = 29.03, SSIM = 0.7418
+Total elapsed time = 3.114083 min
+
+BM3D=29.126589,SAIST=29.034374
+i=6,j=7
+5.tif:
+Image: External image (512x512), sigma: 40.0
+BASIC ESTIMATE, PSNR: 27.24 dB
+FINAL ESTIMATE (total time: 8.9 sec), PSNR: 27.94 dB, SSIM: 1.000
+PSNR of the noisy image = 16.091237 
+
+Iteration 1 : nSig = 40.00, PSNR = 22.18, SSIM = 0.3663
+Iteration 2 : nSig = 24.22, PSNR = 25.43, SSIM = 0.5350
+Iteration 3 : nSig = 21.73, PSNR = 27.39, SSIM = 0.6743
+Iteration 4 : nSig = 19.41, PSNR = 27.80, SSIM = 0.7006
+Iteration 5 : nSig = 18.28, PSNR = 27.80, SSIM = 0.6978
+Iteration 6 : nSig = 17.89, PSNR = 27.87, SSIM = 0.6985
+Iteration 7 : nSig = 17.52, PSNR = 27.88, SSIM = 0.6981
+Iteration 8 : nSig = 17.46, PSNR = 27.88, SSIM = 0.6980
+Iteration 9 : nSig = 17.43, PSNR = 27.88, SSIM = 0.6980
+Iteration 10 : nSig = 17.42, PSNR = 27.88, SSIM = 0.6980
+Iteration 11 : nSig = 17.41, PSNR = 27.88, SSIM = 0.6980
+Iteration 12 : nSig = 17.41, PSNR = 27.89, SSIM = 0.6980
+Total elapsed time = 5.042567 min
+
+BM3D=27.939754,SAIST=27.888598
+i=6,j=8
+5.tif:
+Image: External image (512x512), sigma: 50.0
+BASIC ESTIMATE, PSNR: 26.36 dB
+FINAL ESTIMATE (total time: 12.2 sec), PSNR: 27.16 dB, SSIM: 1.000
+PSNR of the noisy image = 14.161275 
+
+Iteration 1 : nSig = 50.00, PSNR = 20.52, SSIM = 0.2862
+Iteration 2 : nSig = 30.20, PSNR = 24.18, SSIM = 0.4594
+Iteration 3 : nSig = 26.94, PSNR = 26.49, SSIM = 0.6272
+Iteration 4 : nSig = 23.96, PSNR = 26.92, SSIM = 0.6586
+Iteration 5 : nSig = 22.62, PSNR = 26.90, SSIM = 0.6560
+Iteration 6 : nSig = 22.20, PSNR = 26.97, SSIM = 0.6583
+Iteration 7 : nSig = 21.78, PSNR = 26.99, SSIM = 0.6584
+Iteration 8 : nSig = 21.72, PSNR = 26.99, SSIM = 0.6586
+Iteration 9 : nSig = 21.70, PSNR = 27.00, SSIM = 0.6588
+Iteration 10 : nSig = 21.69, PSNR = 27.00, SSIM = 0.6589
+Iteration 11 : nSig = 21.68, PSNR = 27.00, SSIM = 0.6590
+Iteration 12 : nSig = 21.68, PSNR = 27.00, SSIM = 0.6590
+Total elapsed time = 5.050483 min
+
+BM3D=27.163127,SAIST=27.001480
+i=6,j=9
+5.tif:
+Image: External image (512x512), sigma: 100.0
+BASIC ESTIMATE, PSNR: 23.39 dB
+FINAL ESTIMATE (total time: 12.8 sec), PSNR: 24.62 dB, SSIM: 1.000
+PSNR of the noisy image = 8.124908 
+
+Iteration 1 : nSig = 100.00, PSNR = 14.45, SSIM = 0.0976
+Iteration 2 : nSig = 58.18, PSNR = 18.06, SSIM = 0.1705
+Iteration 3 : nSig = 53.14, PSNR = 21.81, SSIM = 0.3233
+Iteration 4 : nSig = 47.78, PSNR = 23.91, SSIM = 0.4915
+Iteration 5 : nSig = 43.94, PSNR = 24.35, SSIM = 0.5431
+Iteration 6 : nSig = 42.45, PSNR = 24.48, SSIM = 0.5582
+Iteration 7 : nSig = 41.72, PSNR = 24.49, SSIM = 0.5601
+Iteration 8 : nSig = 41.56, PSNR = 24.48, SSIM = 0.5607
+Iteration 9 : nSig = 41.51, PSNR = 24.47, SSIM = 0.5609
+Iteration 10 : nSig = 41.48, PSNR = 24.47, SSIM = 0.5609
+Iteration 11 : nSig = 41.46, PSNR = 24.46, SSIM = 0.5609
+Iteration 12 : nSig = 41.46, PSNR = 24.45, SSIM = 0.5607
+Iteration 13 : nSig = 41.44, PSNR = 24.44, SSIM = 0.5606
+Iteration 14 : nSig = 41.44, PSNR = 24.44, SSIM = 0.5607
+Total elapsed time = 9.685333 min
+
+BM3D=24.620211,SAIST=24.439311
+i=7,j=1
+6.tif:
+Image: External image (741x865), sigma: 5.0
+BASIC ESTIMATE, PSNR: 37.26 dB
+FINAL ESTIMATE (total time: 19.9 sec), PSNR: 37.35 dB, SSIM: 1.000
+PSNR of the noisy image = 34.149601 
+
+Iteration 1 : nSig = 5.00, PSNR = 36.72, SSIM = 0.9574
+Iteration 2 : nSig = 2.95, PSNR = 37.21, SSIM = 0.9718
+Iteration 3 : nSig = 2.80, PSNR = 37.37, SSIM = 0.9754
+Iteration 4 : nSig = 2.69, PSNR = 37.40, SSIM = 0.9756
+Iteration 5 : nSig = 2.64, PSNR = 37.40, SSIM = 0.9752
+Iteration 6 : nSig = 2.61, PSNR = 37.40, SSIM = 0.9749
+Iteration 7 : nSig = 2.58, PSNR = 37.40, SSIM = 0.9747
+Iteration 8 : nSig = 2.57, PSNR = 37.39, SSIM = 0.9745
+Iteration 9 : nSig = 2.56, PSNR = 37.39, SSIM = 0.9744
+Iteration 10 : nSig = 2.55, PSNR = 37.38, SSIM = 0.9743
+Total elapsed time = 5.990117 min
+
+BM3D=37.347959,SAIST=37.382016
+i=7,j=2
+6.tif:
+Image: External image (741x865), sigma: 10.0
+BASIC ESTIMATE, PSNR: 32.36 dB
+FINAL ESTIMATE (total time: 20.2 sec), PSNR: 32.57 dB, SSIM: 1.000
+PSNR of the noisy image = 28.131287 
+
+Iteration 1 : nSig = 10.00, PSNR = 31.59, SSIM = 0.8802
+Iteration 2 : nSig = 5.80, PSNR = 32.33, SSIM = 0.9306
+Iteration 3 : nSig = 5.44, PSNR = 32.58, SSIM = 0.9442
+Iteration 4 : nSig = 5.19, PSNR = 32.64, SSIM = 0.9455
+Iteration 5 : nSig = 5.07, PSNR = 32.65, SSIM = 0.9452
+Iteration 6 : nSig = 5.02, PSNR = 32.67, SSIM = 0.9454
+Iteration 7 : nSig = 4.96, PSNR = 32.67, SSIM = 0.9451
+Iteration 8 : nSig = 4.93, PSNR = 32.67, SSIM = 0.9449
+Iteration 9 : nSig = 4.92, PSNR = 32.66, SSIM = 0.9447
+Iteration 10 : nSig = 4.91, PSNR = 32.65, SSIM = 0.9446
+Total elapsed time = 5.990450 min
+
+BM3D=32.574970,SAIST=32.654386
+i=7,j=3
+6.tif:
+Image: External image (741x865), sigma: 15.0
+BASIC ESTIMATE, PSNR: 29.65 dB
+FINAL ESTIMATE (total time: 20.9 sec), PSNR: 30.03 dB, SSIM: 1.000
+PSNR of the noisy image = 24.595318 
+
+Iteration 1 : nSig = 15.00, PSNR = 28.70, SSIM = 0.7910
+Iteration 2 : nSig = 8.61, PSNR = 29.68, SSIM = 0.8809
+Iteration 3 : nSig = 8.00, PSNR = 30.02, SSIM = 0.9104
+Iteration 4 : nSig = 7.57, PSNR = 30.11, SSIM = 0.9138
+Iteration 5 : nSig = 7.39, PSNR = 30.13, SSIM = 0.9136
+Iteration 6 : nSig = 7.30, PSNR = 30.16, SSIM = 0.9144
+Iteration 7 : nSig = 7.20, PSNR = 30.17, SSIM = 0.9142
+Iteration 8 : nSig = 7.17, PSNR = 30.16, SSIM = 0.9139
+Iteration 9 : nSig = 7.15, PSNR = 30.16, SSIM = 0.9136
+Iteration 10 : nSig = 7.13, PSNR = 30.15, SSIM = 0.9135
+Total elapsed time = 5.972667 min
+
+BM3D=30.031131,SAIST=30.151844
+i=7,j=4
+6.tif:
+Image: External image (741x865), sigma: 20.0
+BASIC ESTIMATE, PSNR: 27.88 dB
+FINAL ESTIMATE (total time: 21.4 sec), PSNR: 28.32 dB, SSIM: 1.000
+PSNR of the noisy image = 22.109907 
+
+Iteration 1 : nSig = 20.00, PSNR = 26.54, SSIM = 0.6975
+Iteration 2 : nSig = 11.86, PSNR = 27.84, SSIM = 0.8273
+Iteration 3 : nSig = 10.92, PSNR = 28.34, SSIM = 0.8808
+Iteration 4 : nSig = 10.21, PSNR = 28.46, SSIM = 0.8864
+Iteration 5 : nSig = 9.91, PSNR = 28.49, SSIM = 0.8864
+Iteration 6 : nSig = 9.76, PSNR = 28.53, SSIM = 0.8872
+Iteration 7 : nSig = 9.64, PSNR = 28.54, SSIM = 0.8870
+Iteration 8 : nSig = 9.58, PSNR = 28.53, SSIM = 0.8866
+Iteration 9 : nSig = 9.55, PSNR = 28.53, SSIM = 0.8863
+Iteration 10 : nSig = 9.52, PSNR = 28.52, SSIM = 0.8861
+Iteration 11 : nSig = 9.51, PSNR = 28.52, SSIM = 0.8860
+Total elapsed time = 7.679417 min
+
+BM3D=28.324411,SAIST=28.519774
+i=7,j=5
+6.tif:
+Image: External image (741x865), sigma: 25.0
+BASIC ESTIMATE, PSNR: 26.58 dB
+FINAL ESTIMATE (total time: 21.9 sec), PSNR: 27.01 dB, SSIM: 1.000
+PSNR of the noisy image = 20.170808 
+
+Iteration 1 : nSig = 25.00, PSNR = 25.00, SSIM = 0.6226
+Iteration 2 : nSig = 14.73, PSNR = 26.52, SSIM = 0.7735
+Iteration 3 : nSig = 13.47, PSNR = 27.09, SSIM = 0.8476
+Iteration 4 : nSig = 12.51, PSNR = 27.22, SSIM = 0.8550
+Iteration 5 : nSig = 12.12, PSNR = 27.25, SSIM = 0.8543
+Iteration 6 : nSig = 11.93, PSNR = 27.30, SSIM = 0.8554
+Iteration 7 : nSig = 11.75, PSNR = 27.30, SSIM = 0.8551
+Iteration 8 : nSig = 11.69, PSNR = 27.30, SSIM = 0.8547
+Iteration 9 : nSig = 11.64, PSNR = 27.29, SSIM = 0.8544
+Iteration 10 : nSig = 11.61, PSNR = 27.29, SSIM = 0.8542
+Iteration 11 : nSig = 11.59, PSNR = 27.29, SSIM = 0.8540
+Total elapsed time = 7.935983 min
+
+BM3D=27.008055,SAIST=27.285552
+i=7,j=6
+6.tif:
+Image: External image (741x865), sigma: 30.0
+BASIC ESTIMATE, PSNR: 25.64 dB
+FINAL ESTIMATE (total time: 22.2 sec), PSNR: 26.04 dB, SSIM: 1.000
+PSNR of the noisy image = 18.601277 
+
+Iteration 1 : nSig = 30.00, PSNR = 23.79, SSIM = 0.5588
+Iteration 2 : nSig = 17.59, PSNR = 25.51, SSIM = 0.7238
+Iteration 3 : nSig = 15.99, PSNR = 26.16, SSIM = 0.8158
+Iteration 4 : nSig = 14.77, PSNR = 26.29, SSIM = 0.8234
+Iteration 5 : nSig = 14.28, PSNR = 26.31, SSIM = 0.8214
+Iteration 6 : nSig = 14.04, PSNR = 26.36, SSIM = 0.8225
+Iteration 7 : nSig = 13.82, PSNR = 26.36, SSIM = 0.8219
+Iteration 8 : nSig = 13.74, PSNR = 26.36, SSIM = 0.8213
+Iteration 9 : nSig = 13.68, PSNR = 26.35, SSIM = 0.8210
+Iteration 10 : nSig = 13.64, PSNR = 26.35, SSIM = 0.8206
+Iteration 11 : nSig = 13.62, PSNR = 26.35, SSIM = 0.8204
+Total elapsed time = 7.793683 min
+
+BM3D=26.038823,SAIST=26.345418
+i=7,j=7
+6.tif:
+Image: External image (741x865), sigma: 40.0
+BASIC ESTIMATE, PSNR: 23.95 dB
+FINAL ESTIMATE (total time: 20.3 sec), PSNR: 24.59 dB, SSIM: 1.000
+PSNR of the noisy image = 16.064447 
+
+Iteration 1 : nSig = 40.00, PSNR = 21.34, SSIM = 0.4343
+Iteration 2 : nSig = 24.40, PSNR = 23.59, SSIM = 0.5885
+Iteration 3 : nSig = 22.13, PSNR = 24.71, SSIM = 0.7492
+Iteration 4 : nSig = 20.07, PSNR = 24.95, SSIM = 0.7709
+Iteration 5 : nSig = 19.15, PSNR = 24.98, SSIM = 0.7677
+Iteration 6 : nSig = 18.72, PSNR = 25.02, SSIM = 0.7672
+Iteration 7 : nSig = 18.37, PSNR = 25.01, SSIM = 0.7653
+Iteration 8 : nSig = 18.22, PSNR = 25.00, SSIM = 0.7638
+Iteration 9 : nSig = 18.13, PSNR = 24.99, SSIM = 0.7626
+Iteration 10 : nSig = 18.06, PSNR = 24.98, SSIM = 0.7617
+Iteration 11 : nSig = 18.02, PSNR = 24.97, SSIM = 0.7609
+Iteration 12 : nSig = 17.99, PSNR = 24.97, SSIM = 0.7607
+Total elapsed time = 13.101650 min
+
+BM3D=24.591540,SAIST=24.967928
+i=7,j=8
+6.tif:
+Image: External image (741x865), sigma: 50.0
+BASIC ESTIMATE, PSNR: 23.37 dB
+FINAL ESTIMATE (total time: 31.5 sec), PSNR: 23.66 dB, SSIM: 1.000
+PSNR of the noisy image = 14.154190 
+
+Iteration 1 : nSig = 50.00, PSNR = 19.82, SSIM = 0.3613
+Iteration 2 : nSig = 30.35, PSNR = 22.44, SSIM = 0.5081
+Iteration 3 : nSig = 27.33, PSNR = 23.74, SSIM = 0.6907
+Iteration 4 : nSig = 24.59, PSNR = 23.96, SSIM = 0.7136
+Iteration 5 : nSig = 23.36, PSNR = 23.95, SSIM = 0.7064
+Iteration 6 : nSig = 22.81, PSNR = 23.96, SSIM = 0.7040
+Iteration 7 : nSig = 22.35, PSNR = 23.93, SSIM = 0.7004
+Iteration 8 : nSig = 22.16, PSNR = 23.90, SSIM = 0.6977
+Iteration 9 : nSig = 22.04, PSNR = 23.88, SSIM = 0.6955
+Iteration 10 : nSig = 21.97, PSNR = 23.86, SSIM = 0.6938
+Iteration 11 : nSig = 21.91, PSNR = 23.84, SSIM = 0.6924
+Iteration 12 : nSig = 21.88, PSNR = 23.84, SSIM = 0.6918
+Total elapsed time = 12.850467 min
+
+BM3D=23.657290,SAIST=23.838793
+i=7,j=9
+6.tif:
+Image: External image (741x865), sigma: 100.0
+BASIC ESTIMATE, PSNR: 21.08 dB
+FINAL ESTIMATE (total time: 32.7 sec), PSNR: 21.65 dB, SSIM: 1.000
+PSNR of the noisy image = 8.124162 
+
+Iteration 1 : nSig = 100.00, PSNR = 14.17, SSIM = 0.1618
+Iteration 2 : nSig = 58.29, PSNR = 17.29, SSIM = 0.2251
+Iteration 3 : nSig = 53.42, PSNR = 20.05, SSIM = 0.3514
+Iteration 4 : nSig = 48.23, PSNR = 21.32, SSIM = 0.5168
+Iteration 5 : nSig = 44.43, PSNR = 21.54, SSIM = 0.5516
+Iteration 6 : nSig = 42.77, PSNR = 21.60, SSIM = 0.5559
+Iteration 7 : nSig = 41.84, PSNR = 21.58, SSIM = 0.5529
+Iteration 8 : nSig = 41.51, PSNR = 21.56, SSIM = 0.5509
+Iteration 9 : nSig = 41.36, PSNR = 21.55, SSIM = 0.5496
+Iteration 10 : nSig = 41.28, PSNR = 21.54, SSIM = 0.5489
+Iteration 11 : nSig = 41.24, PSNR = 21.54, SSIM = 0.5484
+Iteration 12 : nSig = 41.21, PSNR = 21.53, SSIM = 0.5483
+Iteration 13 : nSig = 41.20, PSNR = 21.53, SSIM = 0.5483
+Iteration 14 : nSig = 41.18, PSNR = 21.53, SSIM = 0.5484
+Total elapsed time = 22.555050 min
+
+BM3D=21.655053,SAIST=21.526929
+i=8,j=1
+7.tif:
+Image: External image (746x821), sigma: 5.0
+BASIC ESTIMATE, PSNR: 37.62 dB
+FINAL ESTIMATE (total time: 21.6 sec), PSNR: 37.83 dB, SSIM: 1.000
+PSNR of the noisy image = 34.139288 
+
+Iteration 1 : nSig = 5.00, PSNR = 37.06, SSIM = 0.9478
+Iteration 2 : nSig = 2.93, PSNR = 37.63, SSIM = 0.9622
+Iteration 3 : nSig = 2.77, PSNR = 37.82, SSIM = 0.9656
+Iteration 4 : nSig = 2.66, PSNR = 37.88, SSIM = 0.9661
+Iteration 5 : nSig = 2.61, PSNR = 37.91, SSIM = 0.9661
+Iteration 6 : nSig = 2.57, PSNR = 37.92, SSIM = 0.9661
+Iteration 7 : nSig = 2.55, PSNR = 37.92, SSIM = 0.9659
+Iteration 8 : nSig = 2.53, PSNR = 37.92, SSIM = 0.9657
+Iteration 9 : nSig = 2.52, PSNR = 37.91, SSIM = 0.9655
+Iteration 10 : nSig = 2.51, PSNR = 37.91, SSIM = 0.9654
+Total elapsed time = 5.635317 min
+
+BM3D=37.833540,SAIST=37.907245
+i=8,j=2
+7.tif:
+Image: External image (746x821), sigma: 10.0
+BASIC ESTIMATE, PSNR: 33.24 dB
+FINAL ESTIMATE (total time: 22.4 sec), PSNR: 33.58 dB, SSIM: 1.000
+PSNR of the noisy image = 28.115192 
+
+Iteration 1 : nSig = 10.00, PSNR = 32.24, SSIM = 0.8540
+Iteration 2 : nSig = 5.74, PSNR = 33.20, SSIM = 0.9057
+Iteration 3 : nSig = 5.33, PSNR = 33.55, SSIM = 0.9189
+Iteration 4 : nSig = 5.05, PSNR = 33.65, SSIM = 0.9200
+Iteration 5 : nSig = 4.91, PSNR = 33.67, SSIM = 0.9191
+Iteration 6 : nSig = 4.82, PSNR = 33.70, SSIM = 0.9188
+Iteration 7 : nSig = 4.75, PSNR = 33.70, SSIM = 0.9182
+Iteration 8 : nSig = 4.72, PSNR = 33.69, SSIM = 0.9176
+Iteration 9 : nSig = 4.70, PSNR = 33.68, SSIM = 0.9172
+Iteration 10 : nSig = 4.68, PSNR = 33.68, SSIM = 0.9169
+Total elapsed time = 5.617683 min
+
+BM3D=33.583350,SAIST=33.675385
+i=8,j=3
+7.tif:
+Image: External image (746x821), sigma: 15.0
+BASIC ESTIMATE, PSNR: 31.04 dB
+FINAL ESTIMATE (total time: 22.9 sec), PSNR: 31.39 dB, SSIM: 1.000
+PSNR of the noisy image = 24.614634 
+
+Iteration 1 : nSig = 15.00, PSNR = 29.57, SSIM = 0.7539
+Iteration 2 : nSig = 8.49, PSNR = 30.90, SSIM = 0.8465
+Iteration 3 : nSig = 7.79, PSNR = 31.36, SSIM = 0.8730
+Iteration 4 : nSig = 7.30, PSNR = 31.46, SSIM = 0.8738
+Iteration 5 : nSig = 7.07, PSNR = 31.47, SSIM = 0.8713
+Iteration 6 : nSig = 6.94, PSNR = 31.51, SSIM = 0.8705
+Iteration 7 : nSig = 6.83, PSNR = 31.50, SSIM = 0.8695
+Iteration 8 : nSig = 6.78, PSNR = 31.50, SSIM = 0.8689
+Iteration 9 : nSig = 6.75, PSNR = 31.49, SSIM = 0.8685
+Iteration 10 : nSig = 6.74, PSNR = 31.48, SSIM = 0.8682
+Total elapsed time = 5.606700 min
+
+BM3D=31.385654,SAIST=31.483504
+i=8,j=4
+7.tif:
+Image: External image (746x821), sigma: 20.0
+BASIC ESTIMATE, PSNR: 29.65 dB
+FINAL ESTIMATE (total time: 23.3 sec), PSNR: 29.95 dB, SSIM: 1.000
+PSNR of the noisy image = 22.101895 
+
+Iteration 1 : nSig = 20.00, PSNR = 27.39, SSIM = 0.6452
+Iteration 2 : nSig = 11.72, PSNR = 29.21, SSIM = 0.7820
+Iteration 3 : nSig = 10.64, PSNR = 29.93, SSIM = 0.8348
+Iteration 4 : nSig = 9.79, PSNR = 30.07, SSIM = 0.8359
+Iteration 5 : nSig = 9.40, PSNR = 30.07, SSIM = 0.8320
+Iteration 6 : nSig = 9.20, PSNR = 30.10, SSIM = 0.8302
+Iteration 7 : nSig = 9.05, PSNR = 30.09, SSIM = 0.8289
+Iteration 8 : nSig = 8.98, PSNR = 30.08, SSIM = 0.8280
+Iteration 9 : nSig = 8.95, PSNR = 30.08, SSIM = 0.8275
+Iteration 10 : nSig = 8.93, PSNR = 30.07, SSIM = 0.8271
+Iteration 11 : nSig = 8.91, PSNR = 30.07, SSIM = 0.8268
+Total elapsed time = 7.408250 min
+
+BM3D=29.954871,SAIST=30.068191
+i=8,j=5
+7.tif:
+Image: External image (746x821), sigma: 25.0
+BASIC ESTIMATE, PSNR: 28.67 dB
+FINAL ESTIMATE (total time: 23.6 sec), PSNR: 28.97 dB, SSIM: 1.000
+PSNR of the noisy image = 20.176274 
+
+Iteration 1 : nSig = 25.00, PSNR = 25.91, SSIM = 0.5625
+Iteration 2 : nSig = 14.57, PSNR = 28.07, SSIM = 0.7249
+Iteration 3 : nSig = 13.13, PSNR = 28.93, SSIM = 0.7976
+Iteration 4 : nSig = 11.99, PSNR = 29.07, SSIM = 0.7986
+Iteration 5 : nSig = 11.49, PSNR = 29.06, SSIM = 0.7938
+Iteration 6 : nSig = 11.26, PSNR = 29.09, SSIM = 0.7923
+Iteration 7 : nSig = 11.06, PSNR = 29.09, SSIM = 0.7911
+Iteration 8 : nSig = 10.99, PSNR = 29.09, SSIM = 0.7903
+Iteration 9 : nSig = 10.95, PSNR = 29.08, SSIM = 0.7897
+Iteration 10 : nSig = 10.92, PSNR = 29.07, SSIM = 0.7892
+Iteration 11 : nSig = 10.90, PSNR = 29.07, SSIM = 0.7889
+Total elapsed time = 7.411950 min
+
+BM3D=28.971692,SAIST=29.070023
+i=8,j=6
+7.tif:
+Image: External image (746x821), sigma: 30.0
+BASIC ESTIMATE, PSNR: 27.90 dB
+FINAL ESTIMATE (total time: 23.8 sec), PSNR: 28.23 dB, SSIM: 1.000
+PSNR of the noisy image = 18.585447 
+
+Iteration 1 : nSig = 30.00, PSNR = 24.64, SSIM = 0.4922
+Iteration 2 : nSig = 17.42, PSNR = 27.11, SSIM = 0.6702
+Iteration 3 : nSig = 15.62, PSNR = 28.13, SSIM = 0.7641
+Iteration 4 : nSig = 14.18, PSNR = 28.28, SSIM = 0.7674
+Iteration 5 : nSig = 13.58, PSNR = 28.27, SSIM = 0.7626
+Iteration 6 : nSig = 13.31, PSNR = 28.30, SSIM = 0.7612
+Iteration 7 : nSig = 13.07, PSNR = 28.30, SSIM = 0.7597
+Iteration 8 : nSig = 12.98, PSNR = 28.29, SSIM = 0.7588
+Iteration 9 : nSig = 12.94, PSNR = 28.29, SSIM = 0.7581
+Iteration 10 : nSig = 12.91, PSNR = 28.28, SSIM = 0.7577
+Iteration 11 : nSig = 12.89, PSNR = 28.28, SSIM = 0.7573
+Total elapsed time = 7.392350 min
+
+BM3D=28.231361,SAIST=28.280713
+i=8,j=7
+7.tif:
+Image: External image (746x821), sigma: 40.0
+BASIC ESTIMATE, PSNR: 26.59 dB
+FINAL ESTIMATE (total time: 23.0 sec), PSNR: 27.08 dB, SSIM: 1.000
+PSNR of the noisy image = 16.082890 
+
+Iteration 1 : nSig = 40.00, PSNR = 22.10, SSIM = 0.3611
+Iteration 2 : nSig = 24.21, PSNR = 25.21, SSIM = 0.5392
+Iteration 3 : nSig = 21.67, PSNR = 26.88, SSIM = 0.7044
+Iteration 4 : nSig = 19.33, PSNR = 27.16, SSIM = 0.7203
+Iteration 5 : nSig = 18.31, PSNR = 27.15, SSIM = 0.7154
+Iteration 6 : nSig = 17.92, PSNR = 27.17, SSIM = 0.7138
+Iteration 7 : nSig = 17.61, PSNR = 27.17, SSIM = 0.7122
+Iteration 8 : nSig = 17.50, PSNR = 27.16, SSIM = 0.7112
+Iteration 9 : nSig = 17.45, PSNR = 27.15, SSIM = 0.7104
+Iteration 10 : nSig = 17.42, PSNR = 27.14, SSIM = 0.7098
+Iteration 11 : nSig = 17.41, PSNR = 27.14, SSIM = 0.7094
+Iteration 12 : nSig = 17.39, PSNR = 27.14, SSIM = 0.7092
+Total elapsed time = 12.078250 min
+
+BM3D=27.085221,SAIST=27.140180
+i=8,j=8
+7.tif:
+Image: External image (746x821), sigma: 50.0
+BASIC ESTIMATE, PSNR: 25.84 dB
+FINAL ESTIMATE (total time: 31.2 sec), PSNR: 26.35 dB, SSIM: 1.000
+PSNR of the noisy image = 14.145132 
+
+Iteration 1 : nSig = 50.00, PSNR = 20.45, SSIM = 0.2854
+Iteration 2 : nSig = 30.18, PSNR = 23.99, SSIM = 0.4572
+Iteration 3 : nSig = 26.88, PSNR = 26.06, SSIM = 0.6591
+Iteration 4 : nSig = 23.84, PSNR = 26.37, SSIM = 0.6832
+Iteration 5 : nSig = 22.57, PSNR = 26.34, SSIM = 0.6772
+Iteration 6 : nSig = 22.13, PSNR = 26.36, SSIM = 0.6748
+Iteration 7 : nSig = 21.77, PSNR = 26.35, SSIM = 0.6728
+Iteration 8 : nSig = 21.67, PSNR = 26.34, SSIM = 0.6717
+Iteration 9 : nSig = 21.63, PSNR = 26.33, SSIM = 0.6710
+Iteration 10 : nSig = 21.61, PSNR = 26.32, SSIM = 0.6705
+Iteration 11 : nSig = 21.59, PSNR = 26.32, SSIM = 0.6701
+Iteration 12 : nSig = 21.58, PSNR = 26.32, SSIM = 0.6699
+Total elapsed time = 12.088817 min
+
+BM3D=26.347926,SAIST=26.316953
+i=8,j=9
+7.tif:
+Image: External image (746x821), sigma: 100.0
+BASIC ESTIMATE, PSNR: 23.31 dB
+FINAL ESTIMATE (total time: 32.2 sec), PSNR: 24.24 dB, SSIM: 1.000
+PSNR of the noisy image = 8.135735 
+
+Iteration 1 : nSig = 100.00, PSNR = 14.51, SSIM = 0.1043
+Iteration 2 : nSig = 58.13, PSNR = 18.17, SSIM = 0.1732
+Iteration 3 : nSig = 53.02, PSNR = 21.93, SSIM = 0.3349
+Iteration 4 : nSig = 47.56, PSNR = 23.87, SSIM = 0.5322
+Iteration 5 : nSig = 43.73, PSNR = 24.23, SSIM = 0.5739
+Iteration 6 : nSig = 42.34, PSNR = 24.32, SSIM = 0.5818
+Iteration 7 : nSig = 41.70, PSNR = 24.32, SSIM = 0.5819
+Iteration 8 : nSig = 41.53, PSNR = 24.31, SSIM = 0.5814
+Iteration 9 : nSig = 41.46, PSNR = 24.30, SSIM = 0.5808
+Iteration 10 : nSig = 41.43, PSNR = 24.30, SSIM = 0.5804
+Iteration 11 : nSig = 41.42, PSNR = 24.29, SSIM = 0.5801
+Iteration 12 : nSig = 41.40, PSNR = 24.29, SSIM = 0.5799
+Iteration 13 : nSig = 41.40, PSNR = 24.28, SSIM = 0.5801
+Iteration 14 : nSig = 41.39, PSNR = 24.29, SSIM = 0.5802
+Total elapsed time = 21.956817 min
+
+BM3D=24.237352,SAIST=24.285739
+i=9,j=1
+8.tif:
+Image: External image (766x824), sigma: 5.0
+BASIC ESTIMATE, PSNR: 39.23 dB
+FINAL ESTIMATE (total time: 22.4 sec), PSNR: 39.39 dB, SSIM: 1.000
+PSNR of the noisy image = 34.154043 
+
+Iteration 1 : nSig = 5.00, PSNR = 38.07, SSIM = 0.9433
+Iteration 2 : nSig = 2.88, PSNR = 39.01, SSIM = 0.9664
+Iteration 3 : nSig = 2.68, PSNR = 39.32, SSIM = 0.9727
+Iteration 4 : nSig = 2.54, PSNR = 39.40, SSIM = 0.9736
+Iteration 5 : nSig = 2.48, PSNR = 39.41, SSIM = 0.9736
+Iteration 6 : nSig = 2.45, PSNR = 39.43, SSIM = 0.9737
+Iteration 7 : nSig = 2.41, PSNR = 39.42, SSIM = 0.9735
+Iteration 8 : nSig = 2.40, PSNR = 39.41, SSIM = 0.9734
+Iteration 9 : nSig = 2.39, PSNR = 39.41, SSIM = 0.9733
+Iteration 10 : nSig = 2.39, PSNR = 39.40, SSIM = 0.9732
+Total elapsed time = 5.855950 min
+
+BM3D=39.386680,SAIST=39.403515
+i=9,j=2
+8.tif:
+Image: External image (766x824), sigma: 10.0
+BASIC ESTIMATE, PSNR: 34.76 dB
+FINAL ESTIMATE (total time: 22.9 sec), PSNR: 35.10 dB, SSIM: 1.000
+PSNR of the noisy image = 28.124426 
+
+Iteration 1 : nSig = 10.00, PSNR = 33.08, SSIM = 0.8389
+Iteration 2 : nSig = 5.67, PSNR = 34.47, SSIM = 0.9175
+Iteration 3 : nSig = 5.20, PSNR = 34.96, SSIM = 0.9404
+Iteration 4 : nSig = 4.89, PSNR = 35.06, SSIM = 0.9433
+Iteration 5 : nSig = 4.77, PSNR = 35.08, SSIM = 0.9433
+Iteration 6 : nSig = 4.72, PSNR = 35.12, SSIM = 0.9444
+Iteration 7 : nSig = 4.64, PSNR = 35.13, SSIM = 0.9444
+Iteration 8 : nSig = 4.63, PSNR = 35.13, SSIM = 0.9444
+Iteration 9 : nSig = 4.62, PSNR = 35.13, SSIM = 0.9443
+Iteration 10 : nSig = 4.61, PSNR = 35.13, SSIM = 0.9443
+Total elapsed time = 5.848717 min
+
+BM3D=35.102442,SAIST=35.126091
+i=9,j=3
+8.tif:
+Image: External image (766x824), sigma: 15.0
+BASIC ESTIMATE, PSNR: 32.46 dB
+FINAL ESTIMATE (total time: 23.2 sec), PSNR: 32.85 dB, SSIM: 1.000
+PSNR of the noisy image = 24.619828 
+
+Iteration 1 : nSig = 15.00, PSNR = 30.28, SSIM = 0.7276
+Iteration 2 : nSig = 8.43, PSNR = 32.07, SSIM = 0.8642
+Iteration 3 : nSig = 7.66, PSNR = 32.71, SSIM = 0.9100
+Iteration 4 : nSig = 7.16, PSNR = 32.84, SSIM = 0.9156
+Iteration 5 : nSig = 6.98, PSNR = 32.87, SSIM = 0.9160
+Iteration 6 : nSig = 6.90, PSNR = 32.93, SSIM = 0.9183
+Iteration 7 : nSig = 6.80, PSNR = 32.94, SSIM = 0.9184
+Iteration 8 : nSig = 6.77, PSNR = 32.94, SSIM = 0.9184
+Iteration 9 : nSig = 6.75, PSNR = 32.94, SSIM = 0.9183
+Iteration 10 : nSig = 6.74, PSNR = 32.94, SSIM = 0.9182
+Total elapsed time = 5.848600 min
+
+BM3D=32.845766,SAIST=32.936993
+i=9,j=4
+8.tif:
+Image: External image (766x824), sigma: 20.0
+BASIC ESTIMATE, PSNR: 30.93 dB
+FINAL ESTIMATE (total time: 23.7 sec), PSNR: 31.36 dB, SSIM: 1.000
+PSNR of the noisy image = 22.106210 
+
+Iteration 1 : nSig = 20.00, PSNR = 27.97, SSIM = 0.6071
+Iteration 2 : nSig = 11.65, PSNR = 30.28, SSIM = 0.8042
+Iteration 3 : nSig = 10.47, PSNR = 31.19, SSIM = 0.8874
+Iteration 4 : nSig = 9.61, PSNR = 31.36, SSIM = 0.8955
+Iteration 5 : nSig = 9.32, PSNR = 31.40, SSIM = 0.8959
+Iteration 6 : nSig = 9.20, PSNR = 31.45, SSIM = 0.8975
+Iteration 7 : nSig = 9.07, PSNR = 31.45, SSIM = 0.8974
+Iteration 8 : nSig = 9.03, PSNR = 31.45, SSIM = 0.8971
+Iteration 9 : nSig = 9.00, PSNR = 31.45, SSIM = 0.8970
+Iteration 10 : nSig = 8.98, PSNR = 31.44, SSIM = 0.8968
+Iteration 11 : nSig = 8.97, PSNR = 31.44, SSIM = 0.8967
+Total elapsed time = 7.595067 min
+
+BM3D=31.357184,SAIST=31.441760
+i=9,j=5
+8.tif:
+Image: External image (766x824), sigma: 25.0
+BASIC ESTIMATE, PSNR: 29.81 dB
+FINAL ESTIMATE (total time: 24.2 sec), PSNR: 30.28 dB, SSIM: 1.000
+PSNR of the noisy image = 20.164441 
+
+Iteration 1 : nSig = 25.00, PSNR = 26.36, SSIM = 0.5168
+Iteration 2 : nSig = 14.51, PSNR = 29.02, SSIM = 0.7444
+Iteration 3 : nSig = 12.98, PSNR = 30.11, SSIM = 0.8618
+Iteration 4 : nSig = 11.84, PSNR = 30.30, SSIM = 0.8734
+Iteration 5 : nSig = 11.48, PSNR = 30.34, SSIM = 0.8740
+Iteration 6 : nSig = 11.32, PSNR = 30.39, SSIM = 0.8757
+Iteration 7 : nSig = 11.16, PSNR = 30.39, SSIM = 0.8752
+Iteration 8 : nSig = 11.10, PSNR = 30.38, SSIM = 0.8747
+Iteration 9 : nSig = 11.07, PSNR = 30.37, SSIM = 0.8743
+Iteration 10 : nSig = 11.04, PSNR = 30.36, SSIM = 0.8740
+Iteration 11 : nSig = 11.03, PSNR = 30.36, SSIM = 0.8737
+Total elapsed time = 7.593033 min
+
+BM3D=30.282291,SAIST=30.358090
+i=9,j=6
+8.tif:
+Image: External image (766x824), sigma: 30.0
+BASIC ESTIMATE, PSNR: 28.96 dB
+FINAL ESTIMATE (total time: 24.4 sec), PSNR: 29.46 dB, SSIM: 1.000
+PSNR of the noisy image = 18.591717 
+
+Iteration 1 : nSig = 30.00, PSNR = 25.05, SSIM = 0.4463
+Iteration 2 : nSig = 17.36, PSNR = 28.01, SSIM = 0.6902
+Iteration 3 : nSig = 15.48, PSNR = 29.28, SSIM = 0.8381
+Iteration 4 : nSig = 14.07, PSNR = 29.49, SSIM = 0.8536
+Iteration 5 : nSig = 13.61, PSNR = 29.52, SSIM = 0.8540
+Iteration 6 : nSig = 13.42, PSNR = 29.56, SSIM = 0.8554
+Iteration 7 : nSig = 13.24, PSNR = 29.55, SSIM = 0.8546
+Iteration 8 : nSig = 13.17, PSNR = 29.54, SSIM = 0.8539
+Iteration 9 : nSig = 13.13, PSNR = 29.53, SSIM = 0.8533
+Iteration 10 : nSig = 13.10, PSNR = 29.53, SSIM = 0.8529
+Iteration 11 : nSig = 13.08, PSNR = 29.52, SSIM = 0.8526
+Total elapsed time = 7.586900 min
+
+BM3D=29.460234,SAIST=29.519287
+i=9,j=7
+8.tif:
+Image: External image (766x824), sigma: 40.0
+BASIC ESTIMATE, PSNR: 27.43 dB
+FINAL ESTIMATE (total time: 23.8 sec), PSNR: 28.23 dB, SSIM: 1.000
+PSNR of the noisy image = 16.098740 
+
+Iteration 1 : nSig = 40.00, PSNR = 22.41, SSIM = 0.3168
+Iteration 2 : nSig = 24.15, PSNR = 25.94, SSIM = 0.5462
+Iteration 3 : nSig = 21.51, PSNR = 27.93, SSIM = 0.7912
+Iteration 4 : nSig = 19.19, PSNR = 28.26, SSIM = 0.8244
+Iteration 5 : nSig = 18.38, PSNR = 28.29, SSIM = 0.8247
+Iteration 6 : nSig = 18.09, PSNR = 28.31, SSIM = 0.8250
+Iteration 7 : nSig = 17.85, PSNR = 28.29, SSIM = 0.8238
+Iteration 8 : nSig = 17.76, PSNR = 28.28, SSIM = 0.8229
+Iteration 9 : nSig = 17.71, PSNR = 28.26, SSIM = 0.8222
+Iteration 10 : nSig = 17.68, PSNR = 28.25, SSIM = 0.8217
+Iteration 11 : nSig = 17.66, PSNR = 28.24, SSIM = 0.8213
+Iteration 12 : nSig = 17.65, PSNR = 28.24, SSIM = 0.8210
+Total elapsed time = 12.379967 min
+
+BM3D=28.234019,SAIST=28.237958
+i=9,j=8
+8.tif:
+Image: External image (766x824), sigma: 50.0
+BASIC ESTIMATE, PSNR: 26.70 dB
+FINAL ESTIMATE (total time: 32.5 sec), PSNR: 27.37 dB, SSIM: 1.000
+PSNR of the noisy image = 14.154163 
+
+Iteration 1 : nSig = 50.00, PSNR = 20.67, SSIM = 0.2480
+Iteration 2 : nSig = 30.12, PSNR = 24.59, SSIM = 0.4581
+Iteration 3 : nSig = 26.73, PSNR = 26.96, SSIM = 0.7491
+Iteration 4 : nSig = 23.73, PSNR = 27.34, SSIM = 0.7950
+Iteration 5 : nSig = 22.71, PSNR = 27.36, SSIM = 0.7954
+Iteration 6 : nSig = 22.37, PSNR = 27.38, SSIM = 0.7956
+Iteration 7 : nSig = 22.10, PSNR = 27.37, SSIM = 0.7941
+Iteration 8 : nSig = 22.01, PSNR = 27.35, SSIM = 0.7930
+Iteration 9 : nSig = 21.96, PSNR = 27.34, SSIM = 0.7923
+Iteration 10 : nSig = 21.93, PSNR = 27.33, SSIM = 0.7917
+Iteration 11 : nSig = 21.92, PSNR = 27.32, SSIM = 0.7913
+Iteration 12 : nSig = 21.90, PSNR = 27.31, SSIM = 0.7908
+Total elapsed time = 12.385800 min
+
+BM3D=27.368663,SAIST=27.315371
+i=9,j=9
+8.tif:
+Image: External image (766x824), sigma: 100.0
+BASIC ESTIMATE, PSNR: 23.83 dB
+FINAL ESTIMATE (total time: 33.7 sec), PSNR: 24.96 dB, SSIM: 1.000
+PSNR of the noisy image = 8.129138 
+
+Iteration 1 : nSig = 100.00, PSNR = 14.53, SSIM = 0.0914
+Iteration 2 : nSig = 58.13, PSNR = 18.28, SSIM = 0.1564
+Iteration 3 : nSig = 53.01, PSNR = 22.25, SSIM = 0.3501
+Iteration 4 : nSig = 47.52, PSNR = 24.41, SSIM = 0.6351
+Iteration 5 : nSig = 43.76, PSNR = 24.85, SSIM = 0.7045
+Iteration 6 : nSig = 42.45, PSNR = 24.95, SSIM = 0.7145
+Iteration 7 : nSig = 41.91, PSNR = 24.95, SSIM = 0.7144
+Iteration 8 : nSig = 41.74, PSNR = 24.94, SSIM = 0.7138
+Iteration 9 : nSig = 41.67, PSNR = 24.93, SSIM = 0.7134
+Iteration 10 : nSig = 41.63, PSNR = 24.92, SSIM = 0.7131
+Iteration 11 : nSig = 41.61, PSNR = 24.91, SSIM = 0.7129
+Iteration 12 : nSig = 41.60, PSNR = 24.90, SSIM = 0.7126
+Iteration 13 : nSig = 41.59, PSNR = 24.90, SSIM = 0.7124
+Iteration 14 : nSig = 41.58, PSNR = 24.90, SSIM = 0.7124
+Total elapsed time = 22.425733 min
+
+BM3D=24.958686,SAIST=24.897684
+i=10,j=1
+9.tif:
+Image: External image (500x664), sigma: 5.0
+BASIC ESTIMATE, PSNR: 36.10 dB
+FINAL ESTIMATE (total time: 10.3 sec), PSNR: 36.23 dB, SSIM: 1.000
+PSNR of the noisy image = 34.164656 
+
+Iteration 1 : nSig = 5.00, PSNR = 35.95, SSIM = 0.9534
+Iteration 2 : nSig = 3.00, PSNR = 36.23, SSIM = 0.9606
+Iteration 3 : nSig = 2.89, PSNR = 36.33, SSIM = 0.9623
+Iteration 4 : nSig = 2.80, PSNR = 36.34, SSIM = 0.9617
+Iteration 5 : nSig = 2.74, PSNR = 36.32, SSIM = 0.9606
+Iteration 6 : nSig = 2.70, PSNR = 36.30, SSIM = 0.9594
+Iteration 7 : nSig = 2.66, PSNR = 36.28, SSIM = 0.9585
+Iteration 8 : nSig = 2.64, PSNR = 36.26, SSIM = 0.9579
+Iteration 9 : nSig = 2.63, PSNR = 36.25, SSIM = 0.9574
+Iteration 10 : nSig = 2.62, PSNR = 36.24, SSIM = 0.9571
+Total elapsed time = 3.205033 min
+
+BM3D=36.229969,SAIST=36.239873
+i=10,j=2
+9.tif:
+Image: External image (500x664), sigma: 10.0
+BASIC ESTIMATE, PSNR: 31.18 dB
+FINAL ESTIMATE (total time: 10.7 sec), PSNR: 31.48 dB, SSIM: 1.000
+PSNR of the noisy image = 28.131022 
+
+Iteration 1 : nSig = 10.00, PSNR = 30.91, SSIM = 0.8758
+Iteration 2 : nSig = 5.86, PSNR = 31.42, SSIM = 0.9051
+Iteration 3 : nSig = 5.56, PSNR = 31.59, SSIM = 0.9129
+Iteration 4 : nSig = 5.32, PSNR = 31.62, SSIM = 0.9121
+Iteration 5 : nSig = 5.17, PSNR = 31.62, SSIM = 0.9107
+Iteration 6 : nSig = 5.10, PSNR = 31.63, SSIM = 0.9100
+Iteration 7 : nSig = 5.04, PSNR = 31.63, SSIM = 0.9093
+Iteration 8 : nSig = 5.01, PSNR = 31.62, SSIM = 0.9088
+Iteration 9 : nSig = 4.99, PSNR = 31.61, SSIM = 0.9084
+Iteration 10 : nSig = 4.97, PSNR = 31.60, SSIM = 0.9080
+Total elapsed time = 3.186833 min
+
+BM3D=31.480108,SAIST=31.601445
+i=10,j=3
+9.tif:
+Image: External image (500x664), sigma: 15.0
+BASIC ESTIMATE, PSNR: 28.54 dB
+FINAL ESTIMATE (total time: 11.0 sec), PSNR: 28.91 dB, SSIM: 1.000
+PSNR of the noisy image = 24.613418 
+
+Iteration 1 : nSig = 15.00, PSNR = 28.14, SSIM = 0.7933
+Iteration 2 : nSig = 8.67, PSNR = 28.85, SSIM = 0.8484
+Iteration 3 : nSig = 8.12, PSNR = 29.09, SSIM = 0.8647
+Iteration 4 : nSig = 7.69, PSNR = 29.13, SSIM = 0.8647
+Iteration 5 : nSig = 7.46, PSNR = 29.13, SSIM = 0.8624
+Iteration 6 : nSig = 7.34, PSNR = 29.14, SSIM = 0.8612
+Iteration 7 : nSig = 7.23, PSNR = 29.13, SSIM = 0.8596
+Iteration 8 : nSig = 7.17, PSNR = 29.12, SSIM = 0.8583
+Iteration 9 : nSig = 7.14, PSNR = 29.10, SSIM = 0.8573
+Iteration 10 : nSig = 7.12, PSNR = 29.09, SSIM = 0.8566
+Total elapsed time = 3.174567 min
+
+BM3D=28.912576,SAIST=29.093082
+i=10,j=4
+9.tif:
+Image: External image (500x664), sigma: 20.0
+BASIC ESTIMATE, PSNR: 26.85 dB
+FINAL ESTIMATE (total time: 11.2 sec), PSNR: 27.21 dB, SSIM: 1.000
+PSNR of the noisy image = 22.116256 
+
+Iteration 1 : nSig = 20.00, PSNR = 26.05, SSIM = 0.7061
+Iteration 2 : nSig = 11.92, PSNR = 27.05, SSIM = 0.7906
+Iteration 3 : nSig = 11.05, PSNR = 27.41, SSIM = 0.8214
+Iteration 4 : nSig = 10.33, PSNR = 27.48, SSIM = 0.8216
+Iteration 5 : nSig = 9.96, PSNR = 27.47, SSIM = 0.8180
+Iteration 6 : nSig = 9.75, PSNR = 27.48, SSIM = 0.8159
+Iteration 7 : nSig = 9.59, PSNR = 27.47, SSIM = 0.8139
+Iteration 8 : nSig = 9.51, PSNR = 27.45, SSIM = 0.8124
+Iteration 9 : nSig = 9.46, PSNR = 27.44, SSIM = 0.8113
+Iteration 10 : nSig = 9.43, PSNR = 27.42, SSIM = 0.8104
+Iteration 11 : nSig = 9.41, PSNR = 27.41, SSIM = 0.8097
+Total elapsed time = 4.041500 min
+
+BM3D=27.211305,SAIST=27.414144
+i=10,j=5
+9.tif:
+Image: External image (500x664), sigma: 25.0
+BASIC ESTIMATE, PSNR: 25.68 dB
+FINAL ESTIMATE (total time: 11.4 sec), PSNR: 26.02 dB, SSIM: 1.000
+PSNR of the noisy image = 20.170798 
+
+Iteration 1 : nSig = 25.00, PSNR = 24.57, SSIM = 0.6325
+Iteration 2 : nSig = 14.80, PSNR = 25.79, SSIM = 0.7343
+Iteration 3 : nSig = 13.61, PSNR = 26.24, SSIM = 0.7808
+Iteration 4 : nSig = 12.62, PSNR = 26.32, SSIM = 0.7818
+Iteration 5 : nSig = 12.11, PSNR = 26.30, SSIM = 0.7769
+Iteration 6 : nSig = 11.84, PSNR = 26.31, SSIM = 0.7742
+Iteration 7 : nSig = 11.63, PSNR = 26.30, SSIM = 0.7719
+Iteration 8 : nSig = 11.53, PSNR = 26.28, SSIM = 0.7703
+Iteration 9 : nSig = 11.48, PSNR = 26.27, SSIM = 0.7691
+Iteration 10 : nSig = 11.45, PSNR = 26.26, SSIM = 0.7683
+Iteration 11 : nSig = 11.42, PSNR = 26.25, SSIM = 0.7677
+Total elapsed time = 4.043267 min
+
+BM3D=26.017805,SAIST=26.252675
+i=10,j=6
+9.tif:
+Image: External image (500x664), sigma: 30.0
+BASIC ESTIMATE, PSNR: 24.79 dB
+FINAL ESTIMATE (total time: 11.5 sec), PSNR: 25.13 dB, SSIM: 1.000
+PSNR of the noisy image = 18.598316 
+
+Iteration 1 : nSig = 30.00, PSNR = 23.40, SSIM = 0.5708
+Iteration 2 : nSig = 17.65, PSNR = 24.84, SSIM = 0.6854
+Iteration 3 : nSig = 16.12, PSNR = 25.36, SSIM = 0.7435
+Iteration 4 : nSig = 14.85, PSNR = 25.43, SSIM = 0.7435
+Iteration 5 : nSig = 14.22, PSNR = 25.41, SSIM = 0.7370
+Iteration 6 : nSig = 13.89, PSNR = 25.41, SSIM = 0.7336
+Iteration 7 : nSig = 13.63, PSNR = 25.39, SSIM = 0.7310
+Iteration 8 : nSig = 13.52, PSNR = 25.38, SSIM = 0.7294
+Iteration 9 : nSig = 13.46, PSNR = 25.37, SSIM = 0.7283
+Iteration 10 : nSig = 13.43, PSNR = 25.36, SSIM = 0.7276
+Iteration 11 : nSig = 13.40, PSNR = 25.35, SSIM = 0.7270
+Total elapsed time = 4.026267 min
+
+BM3D=25.132404,SAIST=25.349483
+i=10,j=7
+9.tif:
+Image: External image (500x664), sigma: 40.0
+BASIC ESTIMATE, PSNR: 23.19 dB
+FINAL ESTIMATE (total time: 10.6 sec), PSNR: 23.81 dB, SSIM: 1.000
+PSNR of the noisy image = 16.100156 
+
+Iteration 1 : nSig = 40.00, PSNR = 21.13, SSIM = 0.4536
+Iteration 2 : nSig = 24.44, PSNR = 23.08, SSIM = 0.5746
+Iteration 3 : nSig = 22.22, PSNR = 23.97, SSIM = 0.6762
+Iteration 4 : nSig = 20.16, PSNR = 24.11, SSIM = 0.6840
+Iteration 5 : nSig = 19.09, PSNR = 24.09, SSIM = 0.6761
+Iteration 6 : nSig = 18.59, PSNR = 24.09, SSIM = 0.6717
+Iteration 7 : nSig = 18.21, PSNR = 24.07, SSIM = 0.6687
+Iteration 8 : nSig = 18.06, PSNR = 24.05, SSIM = 0.6667
+Iteration 9 : nSig = 17.98, PSNR = 24.04, SSIM = 0.6653
+Iteration 10 : nSig = 17.92, PSNR = 24.03, SSIM = 0.6642
+Iteration 11 : nSig = 17.89, PSNR = 24.02, SSIM = 0.6634
+Iteration 12 : nSig = 17.87, PSNR = 24.02, SSIM = 0.6632
+Total elapsed time = 6.508267 min
+
+BM3D=23.806570,SAIST=24.020162
+i=10,j=8
+9.tif:
+Image: External image (500x664), sigma: 50.0
+BASIC ESTIMATE, PSNR: 22.63 dB
+FINAL ESTIMATE (total time: 16.0 sec), PSNR: 22.90 dB, SSIM: 1.000
+PSNR of the noisy image = 14.137695 
+
+Iteration 1 : nSig = 50.00, PSNR = 19.56, SSIM = 0.3741
+Iteration 2 : nSig = 30.40, PSNR = 21.90, SSIM = 0.4931
+Iteration 3 : nSig = 27.46, PSNR = 23.02, SSIM = 0.6170
+Iteration 4 : nSig = 24.66, PSNR = 23.18, SSIM = 0.6299
+Iteration 5 : nSig = 23.26, PSNR = 23.15, SSIM = 0.6212
+Iteration 6 : nSig = 22.66, PSNR = 23.15, SSIM = 0.6168
+Iteration 7 : nSig = 22.20, PSNR = 23.13, SSIM = 0.6139
+Iteration 8 : nSig = 22.03, PSNR = 23.12, SSIM = 0.6120
+Iteration 9 : nSig = 21.95, PSNR = 23.10, SSIM = 0.6108
+Iteration 10 : nSig = 21.89, PSNR = 23.09, SSIM = 0.6100
+Iteration 11 : nSig = 21.86, PSNR = 23.09, SSIM = 0.6094
+Iteration 12 : nSig = 21.83, PSNR = 23.09, SSIM = 0.6094
+Total elapsed time = 7.006833 min
+
+BM3D=22.898138,SAIST=23.091314
+i=10,j=9
+9.tif:
+Image: External image (500x664), sigma: 100.0
+BASIC ESTIMATE, PSNR: 20.50 dB
+FINAL ESTIMATE (total time: 16.6 sec), PSNR: 20.98 dB, SSIM: 1.000
+PSNR of the noisy image = 8.113424 
+
+Iteration 1 : nSig = 100.00, PSNR = 14.05, SSIM = 0.1683
+Iteration 2 : nSig = 58.34, PSNR = 17.02, SSIM = 0.2308
+Iteration 3 : nSig = 53.53, PSNR = 19.59, SSIM = 0.3409
+Iteration 4 : nSig = 48.40, PSNR = 20.75, SSIM = 0.4633
+Iteration 5 : nSig = 44.58, PSNR = 20.97, SSIM = 0.4895
+Iteration 6 : nSig = 42.88, PSNR = 21.03, SSIM = 0.4919
+Iteration 7 : nSig = 41.96, PSNR = 21.01, SSIM = 0.4896
+Iteration 8 : nSig = 41.64, PSNR = 21.00, SSIM = 0.4879
+Iteration 9 : nSig = 41.48, PSNR = 20.98, SSIM = 0.4868
+Iteration 10 : nSig = 41.40, PSNR = 20.97, SSIM = 0.4861
+Iteration 11 : nSig = 41.34, PSNR = 20.96, SSIM = 0.4855
+Iteration 12 : nSig = 41.31, PSNR = 20.95, SSIM = 0.4852
+Iteration 13 : nSig = 41.28, PSNR = 20.95, SSIM = 0.4851
+Iteration 14 : nSig = 41.27, PSNR = 20.94, SSIM = 0.4851
+Total elapsed time = 11.969383 min
+
+BM3D=20.984924,SAIST=20.940789
+>> 
